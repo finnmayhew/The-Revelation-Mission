@@ -18,7 +18,7 @@
 
 ## Planned arc
 
-1. Land on Poseidon (Session Zero or 1)
+1. Land on Poseidon ([Session Zero](Sessions/Session0.md) or [1](Sessions/Session1.md))
 2. Get acquainted with [the Overworld](World/Poseidon.md#the-overworld)
 3. Discover that Hestia is "below" Poseidon
 4. Venture into and through [the Underdark](World/Poseidon.md#the-underdark)
