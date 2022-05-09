@@ -1,7 +1,5 @@
 # Campaign Bible
 
-[Table of Contents](README.md)
-
 ## Hidden cosmology
 
 [Hestia](World/Hestia.md) and [Poseidon](World/Poseidon.md) are the exterior and interior surfaces (respectively) of a spherical shell.
