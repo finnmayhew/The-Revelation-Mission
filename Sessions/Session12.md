@@ -2,7 +2,7 @@
 
 [Table of Contents](../README.md)
 
-[Session 11](session11.md)
+[Session 11](./Session11.md)
 
 _
 

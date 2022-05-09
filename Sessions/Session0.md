@@ -4,7 +4,7 @@
 
 _
 
-[Session 1](session1.md)
+[Session 1](./Session1.md)
 
 ## Prep
 

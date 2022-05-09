@@ -2,9 +2,9 @@
 
 [Table of Contents](../README.md)
 
-[Session 7](session7.md)
+[Session 7](./Session7.md)
 
-[Session 9](session9.md)
+[Session 9](./Session9.md)
 
 ## Prep
 
