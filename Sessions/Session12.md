@@ -1,11 +1,7 @@
-# Session 12
+[Session 11](/Sessions/Session11.md)
 
-[Session 11](./Session11.md)
+# Session 12
 
 ## Prep
 
-
-
 ## Table Notes
-
-
