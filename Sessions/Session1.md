@@ -1,4 +1,4 @@
-[Session Zero](/Sessions/Session0.md) ... [Session 2](/Sessions/Session2.md)
+[Session Zero](./Session0.md) ... [Session 2](./Session2.md)
 
 # Session 1
 

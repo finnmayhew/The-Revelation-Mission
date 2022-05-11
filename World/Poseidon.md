@@ -1,6 +1,6 @@
 # Poseidon
 
-[Hestia](/World/Hestia.md) and Poseidon are the exterior and interior surfaces (respectively) of a spherical shell.
+[Hestia](./Hestia.md) and Poseidon are the exterior and interior surfaces (respectively) of a spherical shell.
 
 ## The Overworld
 

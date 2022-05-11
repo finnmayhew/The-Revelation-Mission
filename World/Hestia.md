@@ -1,10 +1,10 @@
 # Hestia
 
-Hestia and [Poseidon](/World/Poseidon.md) are the exterior and interior surfaces (respectively) of a spherical shell.
+Hestia and [Poseidon](./Poseidon.md) are the exterior and interior surfaces (respectively) of a spherical shell.
 
 Public description:
 
-> *After millennia of wonder and decades of collaboration between the world’s magicians, scientists, and engineers, Hestia is ready to make her first great leap towards understanding [the Gliss](/World/Gliss.md).  For all of our recorded history, the shimmering ball has weaved through the sky, at times reflecting the full intensity of the Sun and at times hiding as a minute distortion of the fixed stars.  You, the crew of the Revelation, our world’s first space ship, are the ones who will leave our home in search of the knowledge that lies far above.  What stories await those who come to listen?*
+> *After millennia of wonder and decades of collaboration between the world’s magicians, scientists, and engineers, Hestia is ready to make her first great leap towards understanding [the Gliss](./Gliss.md).  For all of our recorded history, the shimmering ball has weaved through the sky, at times reflecting the full intensity of the Sun and at times hiding as a minute distortion of the fixed stars.  You, the crew of the Revelation, our world’s first space ship, are the ones who will leave our home in search of the knowledge that lies far above.  What stories await those who come to listen?*
 >
 > Hestia is generally a medieval fantasy world.  It has a bit more technology than actual medieval times, but the creation of the Revelation was equally a scientific and a magical feat, so the world is in most ways not similar to ours when we had our first space missions.
 >

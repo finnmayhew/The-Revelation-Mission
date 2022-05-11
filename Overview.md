@@ -2,18 +2,18 @@
 
 ## Mysteries for the party to solve
 
-- What is [the Gliss](/World/Gliss.md)?
+- What is [the Gliss](World/Gliss.md)?
 - How do they get home?
-  - How did they get to [Poseidon](/World/Poseidon.md)?
-  - Where is are Poseidon and [Hestia](/World/Hestia.md) in relation to each other?
+  - How did they get to [Poseidon](World/Poseidon.md)?
+  - Where is are Poseidon and [Hestia](World/Hestia.md) in relation to each other?
 - What's up with Poseidon's sky and sun?
 
 ## Planned arc
 
-1. Land on Poseidon ([Session Zero](/Sessions/Session0.md) or [1](/Sessions/Session1.md))
-2. Get acquainted with [the Overworld](/World/Poseidon.md#the-overworld)
+1. Land on Poseidon ([Session Zero](Sessions/Session0.md) or [1](Sessions/Session1.md))
+2. Get acquainted with [the Overworld](World/Poseidon.md#the-overworld)
 3. Discover that Hestia is "below" Poseidon
-4. Venture into and through [the Underdark](/World/Poseidon.md#the-underdark)
+4. Venture into and through [the Underdark](World/Poseidon.md#the-underdark)
 5. Return to Hestia
 
 ## Questions and thoughts
