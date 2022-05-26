@@ -18,6 +18,36 @@ There is a considerable layer of mantle between Hestia and Poseidon's surface, a
 
 ## The Overworld
 
+(inspired by [this video](https://youtu.be/ksAu3OHMZzo) and [this video](https://youtu.be/5U-PYEMReI0))
+
+- The Gliss / Poseidon's sun is a "Plane of Water vortex"
+  - Mostly useful for me
+- The "Darkened Depths" (Plane of Ooze / Swamp of Oblivion) before the Underdark
+  - This is a place the marids cannot go, but the elementals can — so the revelers may have to be guided by elementals
+- Towards the Plane of (Ice, Salt, Steam), water becomes (cold, brackish, hot)
+- The "Citadel of Ten Thousand Pearls" ("Citadel" for short) is the colony (coral citystate) the revelers find
+  - Designed around a series of natural currents
+  - Several dozen miles wide
+  - Domed, curved buildings (more like shells than domes)
+  - Big glowing pearls light the city
+- People: Marids, "elementals" (water elementals) (what about sahuagin, triton, merfolk, and locathah? — maybe those are from Hestia)
+  - Marids and elementals live almost parallel to each other
+    - "Istishia" is the leader of the elementals (maybe scrap?)
+  - They are fundamentally very different, and do not share a language or most biological needs
+  - Most of what the party interfaces with will be the Marid part of the colony
+- Creatures/monsters: Mephits (ice and steam, closer to respective planes), "safarat" (sea hags), aboleths
+  - Mephits are very rare near the Citadel, not a big deal
+  - Safarat are dangerous because they disguise themselves as marids and sneak into the Citadel and then attack people
+    - Unknown what they want or how intelligent they are
+  - Aboleths are very rare, like dragons
+    - Not mythical, but most marids have never seen one
+  - General big fish also exist, closer to the Darkened Depths (which has less gravity)
+- "red tides" are currents that carry parasites
+- "burn water" are acidic patches of water
+- Plenty of names to draw from, the gods of the plane
+
+TODO: What do the elementals want?
+
 ## The Underdark
 
 The solid mantle between Hestia's and Poseidon's surfaces is the Underdark.
