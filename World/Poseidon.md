@@ -51,7 +51,7 @@ The blue region is Poseidon, the green is the Darkended Depths, the orange the U
 - "burn water" are acidic patches of water
 - Plenty of names to draw from, the gods of the plane, also a few water elemental names
 
-The big cosmological thing is that magic is very rare on Poseidon (see the explanation on the [Gliss](./Gliss.md) page). But, those who have the potential for magic are on average more powerful than Hestians who choose to pursue magic. Also, those from the Darkend Depths are more likely to have the potential (because the local Weave is weaker).
+The big cosmological thing is that magic is very rare on Poseidon (see the explanation on the [Gliss](./Gliss.md) page). But, those who have the potential for magic are on average more powerful than Hestians who choose to pursue magic. Also, those from the Darkened Depths are more likely to have the potential (because the local Weave is weaker).
 
 ## History
 
