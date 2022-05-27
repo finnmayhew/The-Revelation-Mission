@@ -8,17 +8,17 @@ It's a modification/interpretation of 5e's Elemental Plane of Water.
 
 ## Physics
 
-There are two forces on anyone in Poseidon, gravity and the magic force. Consider a frame where you're standing on the surface of Poseidon, where Hestia is below you and the sun is above.
+There are two forces on anyone in Poseidon, gravity and the Weave. Consider a frame where you're standing on the surface of Poseidon, where Hestia is below you and the sun is above.
 
 Gravity points upwards. It decreases linearly with height. The boundary conditions are Hestia's true gravity at the boundary between the worlds and close to 0 at the sun.
 
-The magic force points downwards. Its magnitude increases approximately quadratically with height (not actually quadratically because of the difference in magic charge between the sun and the Gliss — but approaches quadratic closer and closer to the sun).
+The Weave points downwards. Its magnitude increases approximately quadratically with height (not actually quadratically because of the difference in magic charge between the sun and the Gliss — but approaches quadratic closer and closer to the sun).
 
 There is a considerable layer of mantle between Hestia and Poseidon's surface, and the Gliss and sun are set up such that the equi-magic-potential is at Hestia's surface, not Poseidon's. Therefore Hestia's surface is where the magic force is at its weakest, and it's stronger at Poseidon's surface. Similarly, gravity is weaker at Poseidon's surface (due to the linear dropoff), and strongest at Hestia's.
 
 [Desmos graph](https://www.desmos.com/calculator/po5ucvvqh4)
 
-The blue region is Poseidon, the green is the Darkended Depths, the orange the Underdark, and the white Hestia. The purple line is the magic force, the red line is gravity, and the black line is the total force. Positive means force pointed radially outwards.
+The blue region is Poseidon, the green is the Darkended Depths, the orange the Underdark, and the white Hestia. The purple line is the Weave, the red line is gravity, and the black line is the total force. Positive means force pointed radially outwards.
 
 ![Desmos graph](./desmos-graph.png)
 
@@ -51,7 +51,7 @@ The blue region is Poseidon, the green is the Darkended Depths, the orange the U
 - "burn water" are acidic patches of water
 - Plenty of names to draw from, the gods of the plane, also a few water elemental names
 
-The big cosmological thing is that magic is very rare on Poseidon (see the explanation on the [Gliss](./Gliss.md) page). But, those who have the potential for magic are on average more powerful than Hestians who choose to pursue magic. Also, those from the Darkend Depths are more likely to have the potential (because the local magic level is less).
+The big cosmological thing is that magic is very rare on Poseidon (see the explanation on the [Gliss](./Gliss.md) page). But, those who have the potential for magic are on average more powerful than Hestians who choose to pursue magic. Also, those from the Darkend Depths are more likely to have the potential (because the local Weave is weaker).
 
 ### History
 
