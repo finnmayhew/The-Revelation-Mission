@@ -6,4 +6,10 @@
 
 ## Prep
 
+Things that should happen:
+
+- Learn that the ship is damaged (in what way?)
+- Find the Citadel and seek refuge there
+- Maybe meet up with the NPC who has been working on communication with the Shabah, and they can give the PCs something that allows them to communicate with the Marids
+
 ## Table Notes
