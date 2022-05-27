@@ -18,7 +18,7 @@ There is a considerable layer of mantle between Hestia and Poseidon's surface (t
 
 [Desmos graph](https://www.desmos.com/calculator/po5ucvvqh4)
 
-The blue region is Poseidon, the green is the Darkended Depths, the orange the Underdark, and the white Hestia. The purple line is the Weave, the red line is gravity, and the black line is the total force. Positive means force pointed radially outwards.
+The blue region is Poseidon, the green is the Darkened Depths, the orange the Underdark, and the white Hestia. The purple line is the Weave, the red line is gravity, and the black line is the total force. Positive means force pointed radially outwards.
 
 ![Desmos graph](./desmos-graph.png)
 
@@ -52,6 +52,16 @@ The blue region is Poseidon, the green is the Darkended Depths, the orange the U
 - Plenty of names to draw from, the gods of the plane, also a few water elemental names
 
 The big cosmological thing is that magic is very rare on Poseidon (see the explanation on the [Gliss](./Gliss.md) page). But, those who have the potential for magic are on average more powerful than Hestians who choose to pursue magic. Also, those from the Darkened Depths are more likely to have the potential (because the local Weave is weaker).
+
+Ideas from brainstorming session with Chris:
+
+- Would be cool to have a single [Nightwalker](https://forgottenrealms.fandom.com/wiki/Nightwalker) in the Darkened Depths with an interesting backstory
+- The [Stormrider's Pearl](https://forgottenrealms.fandom.com/wiki/Storm_rider%27s_pearl), needed to traverse the Darkened Depths via a ship modification
+  - Developed to control the currents for irrigation or similar, and has the side effect of controlling the Shabah, which the higher-ups will advertise as an added bonus (but don't think too hard about it)
+  - One key could be working with the translator person to give the Shabah voices, which would very quickly make the issue with the Pearl evident and would put the public against its use
+  - This isn't a necessary path, because they could always just steal the Pearl
+- Maybe the people in power are the people who have magic
+- Something foreboding in the Underdark that hints at the reason for the Gliss/sun setup (Illithids?) (approximately Chris's idea: the Illithids are aliens who came to conquer, ancient Hestians summoned the gods who banished them to the Underdark. The Gliss was the result of summoning the gods.)
 
 ## History
 
