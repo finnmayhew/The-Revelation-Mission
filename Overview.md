@@ -6,7 +6,7 @@
 - How do they get home?
   - How did they get to [Poseidon](World/Poseidon.md)?
   - Where is are Poseidon and [Hestia](World/Hestia.md) in relation to each other?
-- What's up with Poseidon's sky and sun?
+- What's up with Poseidon's sun?
 
 ## Planned arc
 

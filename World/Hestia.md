@@ -1,6 +1,6 @@
 # Hestia
 
-Hestia and [Poseidon](./Poseidon.md) are the exterior and interior surfaces (respectively) of a spherical shell.
+Hestia is the exterior surface of this planet, and [Poseidon](./Poseidon.md) is the core.
 
 Public description:
 
@@ -10,7 +10,6 @@ Public description:
 >
 > The people of Hestia have knowledge of classical mechanics and electrodynamics equivalent to our own, so feel free to give your characters your own knowledge.  They have some ideas about relativity and quantum mechanics, but they don't yet have the equipment to investigate those.  The study of magic is treated differently than the sciences.  It's considered more practical and intuitive, more like an art form, and it's taught both through apprenticeships and as a university major.
 
-TO DO:
+I won't describe Hestia more than is needed considering the party will spend probably none of the campaign there.
 
-- Basic description of political regions
-- Basic history
+It's maybe more medieval than most D&D campaigns, like there are kingdoms and peasants and so forth.  But there are some modern jobs that are associated with space travel — this is mostly to be determined by what the players write for their characters' backstories.
