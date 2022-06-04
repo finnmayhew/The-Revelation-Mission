@@ -13,3 +13,17 @@ Public description:
 I won't describe Hestia more than is needed considering the party will spend probably none of the campaign there.
 
 It's maybe more medieval than most D&D campaigns, like there are kingdoms and peasants and so forth. But there are some modern jobs that are associated with space travel — this is mostly to be determined by what the players write for their characters' backstories.
+
+## Kingdoms and Species
+
+### Daria
+
+- Established by the humans
+- Grew through trade rather than conquest
+- Known for shipbuilding
+  - Have a unique magic technology that allows for all their ships to have construct pilots, colloquially called "Darian Pilots"
+- Daria's navy provides security for merchant ships from other kingdoms
+
+### The Changelings
+
+- Changelings long ago had a kingdom called Khorvaire, which was conquered by (some other kingdom, fill in)

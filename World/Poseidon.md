@@ -20,7 +20,7 @@ There is a considerable layer of mantle between Hestia and Poseidon's surface (t
 
 The blue region is Poseidon, the green is the Darkened Depths, the orange the Underdark, and the white Hestia. The purple line is the Weave, the red line is gravity, and the black line is the total force. Positive means force pointed radially outwards.
 
-![Desmos graph](./desmos-graph.png)
+![Desmos graph](./Images/forces.png)
 
 ## General notes
 
@@ -29,23 +29,23 @@ The blue region is Poseidon, the green is the Darkened Depths, the orange the Un
 - The Gliss / Poseidon's sun is a "Plane of Water vortex"
   - Mostly useful for me
 - The "Darkened Depths" (Plane of Ooze / Swamp of Oblivion) before the Underdark
-  - This is a place the marids cannot go, but the shabah can — so the revelers may have to be guided by shabah
+  - This is a place the Marids cannot go, but the Shabah can — so the revelers may have to be guided by Shabah
 - Towards the Plane of (Ice, Salt, Steam), water becomes (cold, brackish, hot)
-- The "Citadel of Ten Thousand Pearls" ("the Citadel" for short) is the colony (coral citystate) the revelers find
+- The "Citadel of Ten Thousand Pearls" ("the Citadel" for short) is the colony (coral city-state) the revelers find
   - Designed around a series of natural currents
   - Several dozen miles wide
   - Domed, curved buildings (more like shells than domes, spirally rather than spherical)
   - Big glowing pearls light the city
-- People: Marids, "shabah" (water elementals) (what about sahuagin, triton, merfolk, and locathah? — maybe those are from Hestia)
-  - Marids and shabah live almost parallel to each other
+- People: Marids, "Shabah" (water elementals) (what about sahuagin, triton, merfolk, and locathah? — maybe those are from Hestia)
+  - Marids and Shabah live almost parallel to each other
   - They are fundamentally very different, and do not share a language or most biological needs
   - The party will initially interface with the Marid part of the colony
-- Creatures/monsters: Mephits (ice and steam, closer to respective planes), "safarat" (sea hags), aboleths
+- Creatures/monsters: Mephits (ice and steam, closer to respective planes), "Safarat" (sea hags), Aboleths
   - Mephits are very rare near the Citadel, not a big deal
-  - Safarat are dangerous because they disguise themselves as marids and sneak into the Citadel and then attack people
+  - Safarat are dangerous because they disguise themselves as Marids and sneak into the Citadel and then attack people
     - Unknown what they want or how intelligent they are
   - Aboleths are very rare, like dragons
-    - Not mythical, but most marids have never seen one
+    - Not mythical, but most Marids have never seen one
   - General big fish also exist, closer to the Darkened Depths (which has less gravity)
 - "red tides" are currents that carry parasites
 - "burn water" are acidic patches of water
@@ -65,4 +65,8 @@ Ideas from brainstorming session with Chris:
 
 ## History
 
+(fill in)
+
 ## The Marids and the Shabah
+
+(fill in)

@@ -20,4 +20,10 @@
 
 [Lux Mercurii](./PCs/Lux.md)
 
+[Farmer Mu](./PCs/Mu.md)
+
+[Norvin](./PCs/Norvin.md)
+
+[Captain Sarnos](./PCs/Sarnos.md)
+
 ## NPCs
