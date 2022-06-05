@@ -26,4 +26,4 @@ It's maybe more medieval than most D&D campaigns, like there are kingdoms and pe
 
 ### The Changelings
 
-- Changelings long ago had a kingdom called Khorvaire, which was conquered by (some other kingdom, fill in)
+- Changelings long ago had a kingdom called Khorvaire, which was conquered by (fill in)
