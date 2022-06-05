@@ -18,6 +18,8 @@
 
 ## Player characters
 
+[Carcy Nizachin](./PCs/Carcy.md)
+
 [Lux Mercurii](./PCs/Lux.md)
 
 [Farmer Mu](./PCs/Mu.md)
