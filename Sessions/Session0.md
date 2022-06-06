@@ -64,3 +64,7 @@ Everyone but Norvin (assuming they're unconscious) roll a `DC 20/15 Constitution
 You see, in the distance, a single, massive free floating pink ball. Roll a `DC 10 Nature Check with disadvantage`. On a success, as you pass out and the Revelation sinks deeper into the endless ocean, you realize what you're looking at is a colony of coral.
 
 ## Table Notes
+
+Elinore: no deaths by heart attack
+
+Don't kill Peanut
