@@ -30,7 +30,7 @@ The blue region is Poseidon, the green is the Darkened Depths, the orange the Un
   - Mostly useful for me
 - The "Darkened Depths" (Plane of Ooze / Swamp of Oblivion) before the Underdark
   - This is a place the Marids cannot go, but the Shabah can — so the revelers may have to be guided by Shabah
-- Towards the Plane of (Ice, Salt, Steam), water becomes (cold, brackish, hot)
+- ~~Towards the Plane of (Ice, Salt, Steam), water becomes (cold, brackish, hot)~~ (doesn't make sense topologically)
 - The "Citadel of Ten Thousand Pearls" ("the Citadel" for short) is the colony (coral city-state) the revelers find
   - Designed around a series of natural currents
   - Several dozen miles wide
@@ -39,7 +39,7 @@ The blue region is Poseidon, the green is the Darkened Depths, the orange the Un
 - People: Marids, "Shabah" (water elementals) (what about sahuagin, triton, merfolk, and locathah? — maybe those are from Hestia)
   - Marids and Shabah live almost parallel to each other
   - They are fundamentally very different, and do not share a language or most biological needs
-  - The party will initially interface with the Marid part of the colony
+  - The party will initially interface with the Maridian part of the colony
 - Creatures/monsters: Mephits (ice and steam, closer to respective planes), "Safarat" (sea hags), Aboleths
   - Mephits are very rare near the Citadel, not a big deal
   - Safarat are dangerous because they disguise themselves as Marids and sneak into the Citadel and then attack people
@@ -63,10 +63,32 @@ Ideas from brainstorming session with Chris:
 - Maybe the people in power are the people who have magic
 - Something foreboding in the Underdark that hints at the reason for the Gliss/sun setup (Illithids?) (approximately Chris's idea: the Illithids are aliens who came to conquer, ancient Hestians summoned the gods who banished them to the Underdark. The Gliss was the result of summoning the gods.)
 
-## History
+## Maridian Life
 
-(fill in)
+As far as anyone in the Citadel knows, the Citadel and a few smaller Maridian colonies are the only civilized life on Poseidon. The commonly accepted idea is that life rose from the Darkened Depths. It slowly evolved and started to cling to coral colonies like the Citadel.
 
-## The Marids and the Shabah
+### The Currents
 
-(fill in)
+Civilization structured itself around the currents. The currents shift over time in something like an S-curve, and the epochs of Maridian history are demarcated by the sudden disruption of Maridian life caused by those shifts. The shifts happen around every 20 years and last for around a month. Any structure in the way of a current is ripped from the foundation of the Citadel's coral (which itself is forbidden from alteration). Thankfully, the shifts happen in such a way that the Marids can tell that they're coming well ahead of time and can evacuate anyone who will be affected, but it's not known how to tell where the currents will end up until they move, so rehousing people and rebuilding buildings takes a significant toll on Maridian society.
+
+### Poseidon and his Monsters
+
+Because they come from the Darkened Depths, some view the world's monsters as failed attempts at civilized life. Some believe that Poseidon, the god who they named the world after, created all life, some believe that he created only the Marids, some believe he just created the world; some believe he does not exist, some believe he *is* the world. Some believe that the Marids were born from nature, and Poseidon is an unnatural force who creates the monsters.
+
+### The Shabah
+
+In Maridian thought, the Shabah lie somewhere between the currents and the monsters — or maybe they are partially both.
+
+The Shabah are creatures made of water that are thought to come from the currents (because they're more often found near the currents). Most of their (noticed) interaction with the Marids is by doing small, annoying things with water, like knocking things off shelves, closing doors, making a room colder, etc. (what we would recognize as ghost things, although the Shabah are not ghosts, just borrowing the imagery). There's no known way to communicate with the Shabah.
+
+Some Marids view the Shabah as annoyances to be tolerated, some view them as monsters, some view them as a neutral fact of life, and very few view them as people. One of the advertised benefits of activating the Stormrider's Pearl is that it will likely repel the Shabah.
+
+## To do
+
+- Name a few Maridian colonies
+- Name Maridian epochs (at least current epoch and the previous one)
+- Name the current shift events (generically)
+- Give significance to the period of the current shift (something related to activity on Hestia?)
+- Make a map of the Citadel
+- Figure out what the Shabah are really doing
+- Write section on the Stormrider's Pearl
