@@ -30,4 +30,6 @@
 - [Padishah Kalbari](./NPCs/Kalbari.md)
 - [The Laminites](./NPCs/Laminites.md)
   - [Raqayiqi](./NPCs/Laminites/Raqayiqi.md)
+  - [Aicha](./NPCs/Laminites/Aicha.md)
+  - [Habib](./NPCs/Laminites/Habib.md)
 - [The Shabah](./NPCs/Shabah.md)

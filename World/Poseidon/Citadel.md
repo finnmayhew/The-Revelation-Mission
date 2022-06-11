@@ -12,7 +12,7 @@ Because they come from the Darkened Depths, some view the world's monsters as fa
 
 Civilization structured itself around the currents. The currents shift over time in something like an S-curve, and the epochs of Maridian history are demarcated by the sudden disruption of Maridian life caused by those shifts, which are called Wakes. Wakes happen around every 20 years and last for around a month. Any structure in the way of a current is ripped from the foundation of the Citadel's coral (which itself is forbidden from alteration). Thankfully, Wakes happen in such a way that the Marids can tell that they're coming well ahead of time and can evacuate anyone who will be affected, but it's not known how to tell where the currents will end up until they move, so rehousing people and rebuilding buildings takes a significant toll on Maridian society.
 
-The current epoch is Hali, and the one before Hali was Qadim.
+The current epoch is Hali, and the one before Hali was Qadim. The next Wake is due within two months.
 
 ## The Shabah
 

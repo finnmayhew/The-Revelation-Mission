@@ -1,0 +1,9 @@
+# Habib
+
+A Marid.
+
+The member of the [Laminites](../Laminites.md).
+
+The husband of [Aicha](./Aicha.md), who he has two sons with, [Faris and Fahad](../Faris%20and%20Fahad.md).
+
+He's a ship mechanic.
