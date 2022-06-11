@@ -114,3 +114,7 @@ Carcy (and others) are suspicious that the cultures are so similar
 Carcy wants to known what the protocols are if aliens show up
 
 She'll also go to the library
+
+They're also suspicious of the nobility
+
+Mu is going to go to meet the farmer
