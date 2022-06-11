@@ -87,10 +87,26 @@ The crew can do whatever they want in the Citadel (likely, find Lux).
 
 The main way of getting around is the Currents. You can't control where you go at intersections of the currents, but the dark blue pylons are set up so that you can use them as off-ramps (they've got an angle to them to guide a rider off like an off-ramp for a highway).
 
-Lux was hiding within the kelp farmland, taking crops to eat. They've taken the form of a Marid (though still in a spacesuit), and while they haven't been able to communicate with the Marids, they've been allowed to hide in a barn on the edge of the farmland under the custody of a farmer named [Charbel](../NPCs/Charbel.md).
+Lux was hiding within the kelp farmland, taking crops to eat. They've taken the form of a Marid (spacesuit can be hidden by shapechange), and while they haven't been able to communicate with the Marids, they've been allowed to hide in a barn on the edge of the farmland under the custody of a farmer named [Charbel](../NPCs/Charbel.md).
 
 I have a feeling Carcy is going to want to go to a library. The closest library to Aicha's house is the Altaarikh Library. It's on the side of the Citadel in the schools, office buildings, etc. zone. It has large glass windows that look out to the ocean, where a few small chunks of earth can be seen floating by. There they can learn the history of the Citadel.
 
 Session ends when they find Lux.
 
 ## Table Notes
+
+Have archivists' guild send Carcy info on shapechangers involved with the mission (done, figured out that Lux was probably the imposter)
+
+Oxygen lasts one day outside of ship
+
+How do the Marids make stuff with their fins? I'll just say that they're very dextrous
+
+I decided that the ship was grown instead of constructed
+
+They're planning to do something with a balloon in order to test the force pushing them down
+
+Lux swim towards Royal Guard Housing 1
+
+They refilled their suit by a quarter (for 6 hours of air)
+
+Carcy (and others) are suspicious that the cultures are so similar
