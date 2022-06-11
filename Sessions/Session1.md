@@ -110,3 +110,7 @@ Lux swim towards Royal Guard Housing 1
 They refilled their suit by a quarter (for 6 hours of air)
 
 Carcy (and others) are suspicious that the cultures are so similar
+
+Carcy wants to known what the protocols are if aliens show up
+
+She'll also go to the library
