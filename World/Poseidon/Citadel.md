@@ -2,7 +2,7 @@
 
 The largest city-state on [Poseidon](../Poseidon.md).
 
-As far as anyone in the Citadel knows, the Citadel and a few smaller Maridian colonies (the largest of which is [Almuhbasa](./Almuhbasa.md)) are the only civilized life on Poseidon. The commonly accepted idea is that life rose from the [Darkened Depths](./Darkened%20Depths.md). It slowly evolved and started to cling to coral colonies like the Citadel.
+As far as anyone in the Citadel knows, the Citadel and a few smaller Maridian colonies (the largest of which is [Almuhbasa](./Almuhbasa.md)) are the only civilized life on Poseidon. The commonly accepted idea is that life rose from the [Darkened Depths](./Darkened_Depths.md). It slowly evolved and started to cling to coral colonies like the Citadel.
 
 ## Poseidon and His Monsters
 

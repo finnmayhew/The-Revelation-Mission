@@ -4,7 +4,7 @@ A Marid.
 
 The member of the [Laminites](../Laminites.md)
 
-The wife of [Habib](./Habib.md), who she has two sons with, [Faris and Fahad](../Faris%20and%20Fahad.md).
+The wife of [Habib](./Habib.md), who she has two sons with, [Faris and Fahad](../Faris_and_Fahad.md).
 
 The captain of the fishing ship The Itisal.
 

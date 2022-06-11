@@ -25,7 +25,7 @@ The blue region is Poseidon, the green is the Darkened Depths, the orange the Un
 ## Locations
 
 - [The Citadel of Ten Thousand Pearls](./Poseidon/Citadel.md)
-- [The Darkened Depths](./Poseidon/Darkened%20Depths.md)
+- [The Darkened Depths](./Poseidon/Darkened_Depths.md)
 - [Almuhbasa](./Poseidon/Almuhbasa.md)
 
 ## Misc notes
