@@ -22,51 +22,13 @@ The blue region is Poseidon, the green is the Darkened Depths, the orange the Un
 
 ![Desmos graph](./Images/forces.png)
 
-## The Citadel of Ten Thousand Pearls
+## Locations
 
-As far as anyone in the Citadel knows, the Citadel and a few smaller Maridian colonies are the only civilized life on Poseidon. The commonly accepted idea is that life rose from the Darkened Depths. It slowly evolved and started to cling to coral colonies like the Citadel.
+- [The Citadel of Ten Thousand Pearls](./Poseidon/Citadel.md)
+- [The Darkened Depths](./Poseidon/Darkened%20Depths.md)
+- [Almuhbasa](./Poseidon/Almuhbasa.md)
 
-### The Currents
-
-Civilization structured itself around the currents. The currents shift over time in something like an S-curve, and the epochs of Maridian history are demarcated by the sudden disruption of Maridian life caused by those shifts. The shifts happen around every 20 years and last for around a month. Any structure in the way of a current is ripped from the foundation of the Citadel's coral (which itself is forbidden from alteration). Thankfully, the shifts happen in such a way that the Marids can tell that they're coming well ahead of time and can evacuate anyone who will be affected, but it's not known how to tell where the currents will end up until they move, so rehousing people and rebuilding buildings takes a significant toll on Maridian society.
-
-### Poseidon and his Monsters
-
-Because they come from the Darkened Depths, some view the world's monsters as failed attempts at civilized life. Some believe that Poseidon, the god who they named the world after, created all life, some believe that he created only the Marids, some believe he just created the world; some believe he does not exist, some believe he *is* the world. Some believe that the Marids were born from nature, and Poseidon is an unnatural force who creates the monsters.
-
-### The Shabah
-
-In Maridian thought, the Shabah lie somewhere between the currents and the monsters — or maybe they are partially both.
-
-The Shabah are creatures made of water that are thought to come from the currents (because they're more often found near the currents). Most of their (noticed) interaction with the Marids is by doing small, annoying things with water, like knocking things off shelves, closing doors, making a room colder, etc. (what we would recognize as ghost things, although the Shabah are not ghosts, just borrowing the imagery). There's no known way to communicate with the Shabah.
-
-Some Marids view the Shabah as annoyances to be tolerated, some view them as monsters, some view them as a neutral fact of life, and very few view them as people. One of the advertised benefits of activating the Stormrider's Pearl is that it will likely repel the Shabah.
-
-### Government and Economy
-
-The Citadel is officially ruled by [Padishah Kalbari](../NPCs/Kalbari.md). She lives at the center of the Citadel, and to seek an audience with her one has to both make their way past the guards of the interior of the Citadel (who are there admittedly to pose a challenge) and traverse the thick maze-like coral closer to the center of the colony. Around one person succeeds in this challenge per year, and anyone who doesn't succeed is usually rescued by the royal guards. The challenge is supposedly meant to ensure that anyone who seeks an audience with the Padishah has a cause they're passionate enough about, but of course in reality it disenfranchises those who cannot make it to the center for any other reason. She is known to be sympathetic to those who succeed in reaching the center of the Citadel.
-
-Laws are enforced by a police force.
-
-The economy is capitalistic, and the most successful and powerful companies are those that have had a representative successfully visit the Padishah.
-
-### Food
-
-The main food source for Marids is fish, which are gone out and caught on expeditions (most fish have figured out not to swim too close to the Citadel). There's also farms for several types of vegetable, but fish farms haven't been invented, largely due to the cultural importance of fishing expeditions
-
-### Infrastructure
-
-Houses are made from a compressed kelp, which behaves similarly to wood. There are a number of kelp forests (several of which are maintained on other floating coral colonies to save space on the Citadel) which are farmed and then processed for building material.
-
-Transportation is through a combination of swimming and the currents, which are significantly faster and act as a kind of public transit, if a circuitous one.
-
-### Science and technology
-
-There is not a ton of science being done at the Citadel, and most jobs are trades, mostly fishing and farming. Most science goes into the repeated planning of the city layout and infrastructure, given the currents.
-
-There is basically no concept of physics, although there are some natural philosophies. Most of those ideas come from those who live on other colonies that are not so focused on the problem of the currents, and those people don't have much chance to collaborate with others due to their isolation.
-
-## General notes
+## Misc notes
 
 (inspired by [this video](https://youtu.be/ksAu3OHMZzo) and [this video](https://youtu.be/5U-PYEMReI0))
 
@@ -106,16 +68,3 @@ Ideas from brainstorming session with Chris:
   - This isn't a necessary path, because they could always just steal the Pearl
 - Maybe the people in power are the people who have magic
 - Something foreboding in the Underdark that hints at the reason for the Gliss/sun setup (Illithids?) (approximately Chris's idea: the Illithids are aliens who came to conquer, ancient Hestians summoned the gods who banished them to the Underdark. The Gliss was the result of summoning the gods.)
-
-## To do
-
-- Name a few Maridian colonies
-- Name Maridian epochs (at least current epoch and the previous one)
-- Name the current shift events (generically)
-- Name currency
-
----
-
-- Give significance to the period of the current shift (something related to activity on Hestia?)
-- Figure out what the Shabah are really doing
-- Write section on the Stormrider's Pearl

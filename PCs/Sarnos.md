@@ -1,4 +1,4 @@
-# Captain Sarnos
+# Captain Kobrur Sarnos
 
 [Character on D&D Beyond](https://ddb.ac/characters/74856919/laEFJD)
 
