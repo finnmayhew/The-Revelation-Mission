@@ -28,7 +28,7 @@ The blue region is Poseidon, the green is the Darkened Depths, the orange the Un
 - [The Darkened Depths](./Poseidon/Darkened_Depths.md)
 - [Almuhbasa](./Poseidon/Almuhbasa.md)
 
-## Misc notes
+## Misc semi-canonical notes
 
 (inspired by [this video](https://youtu.be/ksAu3OHMZzo) and [this video](https://youtu.be/5U-PYEMReI0))
 

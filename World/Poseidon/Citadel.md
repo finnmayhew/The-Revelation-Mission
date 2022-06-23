@@ -16,7 +16,7 @@ The current epoch is Hali, and the one before Hali was Qadim. The next Wake is d
 
 ## The Shabah
 
-In Maridian thought, the [Shabah]((../../NPCs/Shabah.md)) lie somewhere between the currents and the monsters — or maybe they are partially both.
+In Maridian thought, the [Shabah](../../NPCs/Shabah.md) lie somewhere between the currents and the monsters — or maybe they are partially both.
 
 The Shabah are creatures made of water that are thought to come from the currents (because they're more often found near the currents). Most of their (noticed) interaction with the Marids is by doing small, annoying things with water, like knocking things off shelves, closing doors, making a room colder, etc. (what we would recognize as ghost things, although the Shabah are not ghosts, just borrowing the imagery). There's no known way to communicate with the Shabah.
 

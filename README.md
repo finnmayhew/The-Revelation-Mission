@@ -2,6 +2,8 @@
 
 [Overview](./Overview.md)
 
+[Timeline](./Timeline.md)
+
 [To Do](./To_Do.md)
 
 ## Sessions
