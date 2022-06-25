@@ -12,10 +12,16 @@ The final day of Qadim's Wake
 
 The Stormrider's Pearl is discovered
 
+## Hali 6548
+
+[Raqayiqi](./NPCs/Laminites/Raqayiqi.md) undertakes the trial to gain an audience with the Padishah, unsuccessfully
+
 ## Hali 6940
+
+([Session 1](./Sessions/Session1.md))
 
 The Revelers enter [Poseidon](./World/Poseidon.md) and encounter [Aicha](./NPCs/Laminites/Aicha.md)
 
 ## Hali 6941
 
-Today
+([Session 2](./Sessions/Session2.md))

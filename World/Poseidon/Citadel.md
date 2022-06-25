@@ -8,6 +8,8 @@ As far as anyone in the Citadel knows, the Citadel and a few smaller Maridian co
 
 Because they come from the Darkened Depths, some view the world's monsters as failed attempts at civilized life. Some believe that Poseidon, the god who they named the world after, created all life, some believe that he created only the Marids, some believe he just created the world; some believe he does not exist, some believe he *is* the world. Some believe that the Marids were born from nature, and Poseidon is an unnatural force who creates the monsters.
 
+Monsters are nearly defined as those that do not communicate. It's indisputable that the crew are not monsters if they can be shown to communicate.
+
 ## The Currents
 
 Civilization structured itself around the currents. The currents shift over time in something like an S-curve, and the epochs of Maridian history are demarcated by the sudden disruption of Maridian life caused by those shifts, which are called Wakes. Wakes happen around every 20 years and last for around a month. Any structure in the way of a current is ripped from the foundation of the Citadel's coral (which itself is forbidden from alteration). Thankfully, Wakes happen in such a way that the Marids can tell that they're coming well ahead of time and can evacuate anyone who will be affected, but it's not known how to tell where the currents will end up until they move, so rehousing people and rebuilding buildings takes a significant toll on Maridian society.
@@ -26,11 +28,15 @@ Some Marids view the Shabah as annoyances to be tolerated, some view them as mon
 
 The Citadel is officially ruled by [Padishah Kalbari](../../NPCs/Kalbari.md). She lives at the center of the Citadel, and to seek an audience with her one has to both make their way past the guards of the interior of the Citadel (who are there admittedly to pose a challenge) and traverse the thick maze-like coral closer to the center of the colony. Around one person succeeds in this challenge per year, and anyone who doesn't succeed is usually rescued by the royal guards. The challenge is supposedly meant to ensure that anyone who seeks an audience with the Padishah has a cause they're passionate enough about, but of course in reality it disenfranchises those who cannot make it to the center for any other reason. She is known to be sympathetic to those who succeed in reaching the center of the Citadel.
 
+The Padishah is a mysterious figure. She isn't known to make policy that people dislike, and generally is effective at keeping the Citadel safe at least. But she's also not quick to make much policy at all, except when guided by those who've undertaken the trial.
+
+Control of the Citadel is known to be passed down hereditarily, although it's not public whether or not Kalbari has an heir.
+
 Laws are enforced by a police force.
 
 The economy is capitalistic, and the most successful and powerful companies are those that have had a representative successfully visit the Padishah. The currency is the Pearl, which comes in the form of pearls of various colors that correspond with the standard D&D currency (gold, silver, copper, etc.). Pearls are strung along arm-diameter solenoids of cord, which some people who want to show their wealth actually wear on their arms.
 
-There are guilds for various trades.
+There are guilds for various trades. Monster hunting is subsidized by the government, but there is no unified group of monster hunters.
 
 ## Food
 
@@ -39,6 +45,10 @@ The main food source for Marids is fish, which are gone out and caught on expedi
 ## Infrastructure
 
 Houses are made from a compressed kelp, which behaves similarly to wood. There are a number of kelp forests (several of which are maintained on other floating coral colonies to save space on the Citadel) which are farmed and then processed for building material. Other building material (such as metals) come from mining chunks of earth that float near the Citadel (or are found in expeditions).
+
+Ships are also grown from kelp. The growth of the kelp is carefully directed so that it forms the right size and shape for a ship, in a similar process to bonsai making.
+
+Most buildings on the underside they've come across that are made of compressed kelp have been blocky, and customized from mass-produced housing modules. More expensive buildings are built from a single thick fiber of kelp, fostered in a similar way that kelp for ship-construction is.
 
 Transportation is through a combination of swimming and the currents, which are significantly faster and act as a kind of public transit, if a circuitous one.
 
