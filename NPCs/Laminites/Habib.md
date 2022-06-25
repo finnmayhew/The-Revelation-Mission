@@ -8,4 +8,6 @@ The husband of [Aicha](./Aicha.md), who he has two sons with, [Faris and Fahad](
 
 He's a ship mechanic.
 
-He's a bit of a grumpy man, but does love Aicha, including her antics. He speaks a bit lower than I do, and doesn't say much.
+He's a bit of a grumpy man, but does love Aicha, including her antics.
+
+Speaks a bit lower than I do, and doesn't say much.

@@ -25,7 +25,7 @@ Carcy's plans:
 
 1. Figure out if Mu can communicate with the Citadel itself ✓
 2. Take first watch on the Revelation while she writes notes ✓
-3. Attempt to team up with Lux (2.)
+3. Attempt to team up with Lux
 4. Investigate the limit
     1. with balloon and rope
     2. with returning spear
@@ -52,11 +52,11 @@ The next day (Hali 6941):
 
 Everyone is up early in anticipation of Lux coming back.
 
-Farmer Mu is gone, but has left a note saying that she's going to go see if she can meet the farmer. (MAYBE CHANGE THIS, STILL NEED TO CLEAR WITH BROOKE).
+Farmer Mu has gone to meet [Charbel](../NPCs/Charbel.md), with Sarnos's approval (CONFIRM WITH ALEX).
 
 Norvin has taken to doing what small repairs the ship needs and running analyses on new data.
 
-Lux has around one hour of air left. What is everyone else doing?
+Lux has around one hour of air left. What are Carcy and Sarnos doing?
 
 ### 2. Encounter with Lux
 
@@ -64,7 +64,7 @@ Lux has been hiding out in the barn. Their oxygen is getting low.
 
 Give Brandon the opportunity to do something before Lux has to go back to the ship. Maybe interact with Charbel, maybe something else.
 
-Lux comes back to the ship, and whatever happens, happens.
+Lux comes back to the ship, and whatever happens, happens. Maybe treat as as a short encounter.
 
 ### 3. What's next?
 
@@ -72,14 +72,20 @@ The crew could go in any number of directions. I've written for some options in 
 
 ### Science at the limit
 
-(work this out)
+As you swim (or take the Revelation) upwards, a force that pushes you back down becomes stronger and stronger, until it's nearly impossible to overcome.
 
-(maybe they have an encounter with a monster up there, or have to avoid a Maridian expedition)
+^ That's the case for things that are dense enough. For things that are close to the density of water or less than its density, they are pushed back by the Shabah manually, which, it's possible to notice, is a bit rougher than the magic force's effect (because it's being done manually by the Shabah).
 
-(maybe they meet another NPC, maybe someone coming in from [Almuhbasa](../World/Poseidon/Almuhbasa.md))
+Things that are less dense than water begin to rise faster somewhat close to the limit, but are still stopped very close to the limit by the Shabah.
+
+All things that are less dense than water rise at the same rate as all other things that are less dense than water, and all things that are more dense than water fall at the same rate as all other things that are more dense than water. HOWEVER, that rate increases with height, due to the magic + gravity forces increasing.
+
+Some really good science could see pulses of water pushing the Gliss around. That would require seeing far enough, somehow telling that there's water moving, and not being blinded by the sun.
 
 ### The Altaarikh Library
 
 (write)
+
+(learn about [Almuhbasa](../World/Poseidon/Almuhbasa.md))
 
 ## Table Notes
