@@ -76,6 +76,8 @@ Lux comes back to the ship, and whatever happens, happens. Maybe treat as as a s
 
 The crew could go in any number of directions. I've written for some options in the following unnumbered sections.
 
+Something that should definitely happen is that they bring [Habib](../NPCs/Laminites/Habib.md) over to the ship or the gas generator over to Aicha and Habib's in order for Habib to modify their helmets to work without their suits.
+
 ### Science at the limit
 
 As you swim (or take the Revelation) upwards, a force that pushes you back down becomes stronger and stronger, until it's nearly impossible to overcome.
@@ -119,6 +121,8 @@ The Marids have explored all of Poseidon that lies between the limit and the Dar
 The most populated of the non-Citadel coral colonies is [Almuhbasa](../World/Poseidon/Almuhbasa.md), which is about a week's travel away by Maridian ship. It's where a lot of scholars and writers live, as the Citadel is very focused on industry. Even on Almuhbasa, there's not much concept of a "scientist", but there are "natural philosophers", who do a lot of theorizing and not a lot of experimentation. Natural philosophy is considered a pretty niche interest, and not a ton is documented at Altaarikh about their groups and research.
 
 Most nonfiction is histories of different people and different eras of the Citadel. They learn about the way eras are named and they devastation caused by the Wake, and that some writers blame the Shabah for the Wake.
+
+A challenge in the library is making sure no one sees their helmets (if people with visible helmets go to the library). Improvise this.
 
 If they encounter someone who picks up on the party being non-Marids, they'll sound an alarm that's meant to summon the nearest group of monster hunters. Everyone in the building will try to evacuate, and also try to get the party out of the library (can use Aicha's character sheet).
 
