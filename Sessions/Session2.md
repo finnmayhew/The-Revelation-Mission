@@ -106,7 +106,7 @@ Updates from Archivists Guild:
 
 Most buildings on the underside they've come across that are made of compressed kelp have been blocky, and customized from mass-produced housing modules. More expensive buildings are built from a single thick fiber of kelp, fostered in a similar way that kelp for ship-construction is.
 
-The Altaarikh Library is not the biggest single-fiber building they've seen (that's the entrance to the palace on Topside, but it does have a remarkable amount of character. Individual strands of compressed kelp are curled in overlapping spiral patterns, making a relief pattern on the walls, and on the inside — unlike the insides of the other buildings they've seen — the compressed kelp is left mostly as-is, rather than fitted to be more square and organized.
+The Altaarikh Library is not the biggest single-fiber building they've seen (that's the entrance to the palace on Topside), but it does have a unique design. Individual strands of compressed kelp are curled in overlapping spiral patterns, making a relief pattern on the walls, and on the inside — unlike the insides of the other buildings they've seen — the compressed kelp is left mostly as-is, rather than fitted to be more square and organized.
 
 The main organizational difference to libraries the crew would be familiar with is that the Altaarikh Library is organized pretty vertically, which makes sense given that people can swim up to grab books. Every shelf has two thin cords, one running near the top and one running near the bottom, which are meant to prevent Shabah from throwing books out of the bookshelves.
 
