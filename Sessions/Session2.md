@@ -78,6 +78,14 @@ The crew could go in any number of directions. I've written for some options in 
 
 Something that should definitely happen is that they bring [Habib](../NPCs/Laminites/Habib.md) over to the ship or the gas generator over to Aicha and Habib's in order for Habib to modify their helmets to work without their suits.
 
+### Traveling through the Citadel
+
+Remember to have increased Shabah activity near currents!
+
+If anyone clocks them as non-Maridians outside, the person will try to get away without provoking them, and they'll report to the Royal Guard, who will dispatch the nearest monster hunters by flashing the pearls in the area where the crew was last seen.
+
+Swimming around, the crew will see that some houses (Aicha's included) have the [Laminite](../NPCs/Laminites.md) emblem (a blue solid circle with a number of tight horizontal lines bending around it, forming the shape of an eye) on small flags outside the front of houses.
+
 ### Science at the limit
 
 As you swim (or take the Revelation) upwards, a force that pushes you back down becomes stronger and stronger, until it's nearly impossible to overcome.
@@ -123,14 +131,6 @@ Most nonfiction is histories of different people and different eras of the Citad
 A challenge in the library is making sure no one sees their helmets (if people with visible helmets go to the library). Improvise this.
 
 If they encounter someone who picks up on the party being non-Marids, they'll sound an alarm that's meant to summon the nearest group of monster hunters. Everyone in the building will try to evacuate, and also try to get the party out of the library (can use Aicha's character sheet).
-
-### Traveling through the Citadel
-
-Remember to have increased Shabah activity near currents!
-
-If anyone clocks them as non-Maridians outside, the person will try to get away without provoking them, and they'll report to the Royal Guard, who will dispatch the nearest monster hunters by flashing the pearls in the area where the crew was last seen.
-
-Swimming around, the crew will see that some houses (Aicha's included) have the [Laminite](../NPCs/Laminites.md) emblem (a blue solid circle with a number of tight horizontal lines bending around it, forming the shape of an eye) on small flags outside the front of houses.
 
 ### Probing the Darkened Depths
 
