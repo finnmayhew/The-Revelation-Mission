@@ -86,8 +86,6 @@ As you swim (or take the Revelation) upwards, a force that pushes you back down 
 
 Things that are less dense than water begin to rise faster somewhat close to the limit, but are still stopped very close to the limit by the Shabah.
 
-All things that are less dense than water rise at the same rate as all other things that are less dense than water, and all things that are more dense than water fall at the same rate as all other things that are more dense than water. HOWEVER, that rate increases with height, due to the magic + gravity forces increasing.
-
 Some really good science could see pulses of water pushing the Gliss around. That would require seeing far enough, somehow telling that there's water moving, and not being blinded by the sun.
 
 ### Communications back to Hestia
