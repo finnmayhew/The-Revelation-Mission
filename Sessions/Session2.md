@@ -147,3 +147,29 @@ Have it go easy on the crew, and not chase after them if they retreat.
 Session ends whenever seems natural.
 
 ## Table Notes
+
+Mu has the local sending stone
+
+From Sarnos to ground control:
+
+> There are underwater dwelling people here call Marids.
+Marids say there is a "limit" which as approached pushes down and prevents going up. Will confirm independently. (26 so far)
+Have contacted two Marids so far; they seem friendly but say not all will be so; concealing our precense for now. (47 so far)"
+Marids claim there is only one city, made out of coral and floating in the water. (63 so far)
+Marids say monsters come from "the depths" below; magical items as well. (75 so far)
+
+Elinore noticed that the sunlight penetrates lower than she'd think — I NEED TO FIGURE THIS OUT
+
+Carcy also learned that water pressure only affects a balloon when it's not on her
+
+I decided the guardian Shabah stop having effect 2-3 meters away from people
+
+Carcy sends limit science to Archivists Guild
+
+I decided that the Shabah regulate the pressure throughout the Citadel, up to the pearls
+
+I conveniently deactivated Norvin (via magic power thing) when Lux was left otherwise alone on the ship
+
+Red light is the signal for summoning royal guard and monster hunters
+
+Carcy goes to library next
