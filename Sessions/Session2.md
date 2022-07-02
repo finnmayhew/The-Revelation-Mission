@@ -112,35 +112,11 @@ Updates from Archivists Guild:
 
 ### The Altaarikh Library
 
-Most buildings on the underside they've come across that are made of compressed kelp have been blocky, and customized from mass-produced housing modules. More expensive buildings are built from a single thick fiber of kelp, fostered in a similar way that kelp for ship-construction is.
-
-The Altaarikh Library is not the biggest single-fiber building they've seen (that's the entrance to the palace on Topside), but it does have a unique design. Individual strands of compressed kelp are curled in overlapping spiral patterns, making a relief pattern on the walls, and on the inside — unlike the insides of the other buildings they've seen — the compressed kelp is left mostly as-is, rather than fitted to be more square and organized.
-
-The main organizational difference to libraries the crew would be familiar with is that the Altaarikh Library is organized pretty vertically, which makes sense given that people can swim up to grab books. Every shelf has two thin cords, one running near the top and one running near the bottom, which are meant to prevent Shabah from throwing books out of the bookshelves.
-
-Books are bound with thin, dark seaweed, and pages are some light green fibrous material. Words are printed with ink, and not readable with Aicha's powder, but are readable with Carcy's Comprehend Languages.
-
-Much of the Citadel's fiction is about the monsters from the [Darkened Depths](../World/Poseidon/Darkened_Depths.md). Carcy will learn that a characteristic of monsters is that they can't communicate, and (if she reads/skims a significant amount) a common plot point in horror fiction is when a character realizes that someone has magically been mimicking communication (revealing that they're a monster). There is no other concept of aliens, in fiction or nonfiction.
-
-The Marids have explored all of Poseidon that lies between the limit and the Darkened Depths. There are a number of other coral colonies, although they're much smaller (and not considered "colonies" in the sense of "places where Marids live", even though some have people who live there).
-
-The most populated of the non-Citadel coral colonies is [Almuhbasa](../World/Poseidon/Almuhbasa.md), which is about a week's travel away by Maridian ship. It's where a lot of scholars and writers live, as the Citadel is very focused on industry. Even on Almuhbasa, there's not much concept of a "scientist", but there are "natural philosophers", who do a lot of theorizing and not a lot of experimentation. Natural philosophy is considered a pretty niche interest, and not a ton is documented at Altaarikh about their groups and research.
-
-Most nonfiction is histories of different people and different eras of the Citadel. They learn about the way eras are named and they devastation caused by the Wake, and that some writers blame the Shabah for the Wake.
-
-A challenge in the library is making sure no one sees their helmets (if people with visible helmets go to the library). Improvise this.
-
-If they encounter someone who picks up on the party being non-Marids, they'll sound an alarm that's meant to summon the nearest group of monster hunters. Everyone in the building will try to evacuate, and also try to get the party out of the library (can use Aicha's character sheet).
+(pushed over to [Session 3 notes](./Session3.md))
 
 ### Probing the Darkened Depths
 
-Going down towards the Darkened Depths, things more dense than water sink slower and things less dense than water rise slower. This gives a sluggish feel to everything this far down.
-
-Far down in the Darkened Depths is a [Charybdis](https://www.5esrd.com/database/creature/charybdis/).
-
-It's far enough down that it's not very visible right at the boundary, but you can see a huge form far down, like a big circle facing up, with some shifting forms inside.
-
-Have it go easy on the crew, and not chase after them if they retreat.
+(pushed over to [Session 3 notes](./Session3.md))
 
 ---
 
@@ -153,10 +129,10 @@ Mu has the local sending stone
 From Sarnos to ground control:
 
 > There are underwater dwelling people here call Marids.
-Marids say there is a "limit" which as approached pushes down and prevents going up. Will confirm independently. (26 so far)
-Have contacted two Marids so far; they seem friendly but say not all will be so; concealing our precense for now. (47 so far)"
-Marids claim there is only one city, made out of coral and floating in the water. (63 so far)
-Marids say monsters come from "the depths" below; magical items as well. (75 so far)
+Marids say there is a "limit" which as approached pushes down and prevents going up. Will confirm independently.
+Have contacted two Marids so far; they seem friendly but say not all will be so; concealing our presence for now.
+Marids claim there is only one city, made out of coral and floating in the water.
+Marids say monsters come from "the depths" below; magical items as well.
 
 Elinore noticed that the sunlight penetrates lower than she'd think — I NEED TO FIGURE THIS OUT
 

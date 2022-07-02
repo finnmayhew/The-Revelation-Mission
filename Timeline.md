@@ -18,10 +18,20 @@ The Stormrider's Pearl is discovered
 
 ## Hali 6940
 
+([Session Zero](./Sessions/Session0.md))
+
 ([Session 1](./Sessions/Session1.md))
 
 The Revelers enter [Poseidon](./World/Poseidon.md) and encounter [Aicha](./NPCs/Laminites/Aicha.md)
 
+(part of [Session 2](./Sessions/Session2.md))
+
 ## Hali 6941
 
-([Session 2](./Sessions/Session2.md))
+(part of [Session 2](./Sessions/Session2.md))
+
+(part of [Session 3](./Sessions/Session3.md))
+
+## Hali 6942
+
+(part of [Session 3](./Sessions/Session3.md)) (confirmed?)

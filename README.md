@@ -4,6 +4,8 @@
 
 [Timeline](./Timeline.md)
 
+[Sending stones](./Sending_stones.md)
+
 [To Do](./To_Do.md)
 
 ## Sessions

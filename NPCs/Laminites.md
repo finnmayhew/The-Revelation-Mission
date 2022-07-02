@@ -8,6 +8,8 @@ They have vague support, but not enough that anyone has actually undertaken the 
 
 Their emblem is a blue solid circle with a number of tight horizontal lines bending around it, forming the shape of an eye.
 
+They meet at Aicha and Habib's children's school's auditorium. That was how Aicha and Habib found them. The school is called Biwawhatan, and I can use Powhatan's layout as a general map.
+
 Notable members:
 
 - [Raqayiqi](./Laminites/Raqayiqi.md)
