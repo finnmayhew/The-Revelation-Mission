@@ -83,3 +83,19 @@ Remember that Elinore won't be at next session, and see if there's a natural thi
 Norvin should turn back on at the end of the session.
 
 ## Table Notes
+
+Question: why does Poseidon have a 24-hour cycle
+
+They are going to teleport Lux above the limit
+
+Man at library was thinking that Carcy was not a monster after she talked with him, but was suspicious — did see her using magic to do comprehend languages
+
+Idea: day dedicated for fishing
+
+Gave them a sample of Aicha's powder
+
+From the powder: Aicha's powder is from deep within the earth
+
+TODO: name the rock!
+
+Mu is off to talk to Charbel
