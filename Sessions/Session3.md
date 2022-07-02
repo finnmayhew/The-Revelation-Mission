@@ -80,4 +80,6 @@ Carcy's Detect Thoughts does not work on them because they don't speak any langu
 
 Remember that Elinore won't be at next session, and see if there's a natural thing to separate Carcy from the party.
 
+Norvin should turn back on at the end of the session.
+
 ## Table Notes
