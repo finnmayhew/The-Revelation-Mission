@@ -4,7 +4,9 @@
 
 [Timeline](./Timeline.md)
 
-[Sending stones](./Sending_stones.md)
+[Sending Stones](./Sending_Stones.md)
+
+[Secret Backstory](./Secret_Backstory.md)
 
 [To Do](./To_Do.md)
 

@@ -1,4 +1,4 @@
-# Sending stones
+# Sending Stones
 
 ## Hali 6940
 

@@ -6,4 +6,11 @@
 
 ## Prep
 
+Things:
+
+- Prompt Lux to try to communicate with the Shabah using Tongues
+- Somehow have the location of the ship be revealed?
+- Norvin wakes up with a sense that they were knocked out because their energy was too high, and may have the insight that their energy comes from magic
+- Something to kickstart the Revelers into heading on the path to the secret backstory
+
 ## Table Notes
