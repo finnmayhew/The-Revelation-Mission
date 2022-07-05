@@ -13,4 +13,6 @@ Things:
 - Norvin wakes up with a sense that they were knocked out because their energy was too high, and may have the insight that their energy comes from magic
 - Something to kickstart the Revelers into heading on the path to the secret backstory
 
+Carcy will join the Itisal on a fishing trip.
+
 ## Table Notes
