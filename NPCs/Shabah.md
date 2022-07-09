@@ -12,4 +12,4 @@ Every Maridian (and [Hestian](../World/Hestia.md) who enters Poseidon) is assign
 
 The way Shabah move is that their consciousnesses flow through the water, unbound by any forces. So it's not that they are water that is moving, it's that they become different water.
 
-They have a basic understanding of Marid society, but not much interest in it. This would change if they were to learn about the Stormrider's Pearl and its implications for their life in the Citadel.
+See [Secret Backstory](../Secret_Backstory.md) for their history with the Marids.
