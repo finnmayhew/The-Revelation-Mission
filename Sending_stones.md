@@ -46,10 +46,10 @@ From ground control:
 
 > Gliss has moved far away. Hired an advanced magician capable of scrying. When one of you senses a presence, do not resist observation. Report? Over.
 
-(after hearing the Shabah during scrying)
+(after hearing the Shabah during scrying, and hearing about the attack at the Darkened Depths)
 
-> Is the ship's structural integrity holding? We can hear a knocking sound from the hull. Over.
+> Noted. Is the ship's structural integrity holding? We can hear a knocking sound from the hull. Over.
 
 (after they respond, likely verbally)
 
-> Will work on this. If possible, document the imposter's spells and capabilities and display or describe to us for future problem solving. Over.
+> We'll work on all this. If possible, document the imposter's spells and capabilities and display or describe to us for future problem solving. Over.

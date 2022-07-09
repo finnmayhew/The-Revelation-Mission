@@ -79,3 +79,27 @@ It's far enough down that it's not very visible right at the boundary, but you c
 If the ship is in a dire situation, have the Shabah pull the ship up and away from the Darkened Depths.
 
 ## Table Notes
+
+Charbel gave Mu a leech and a salamander
+
+Charbel says he's interested in getting Mu's help with bait farming
+
+Brandon wants Lux to get to level 13
+
+Carcy took her generated sending stones with her
+
+Sarnos got a water sample near the Darkened Depths
+
+NOTE: Give Emmett an updated force map
+
+Reminded Brandon about Tongues, in character with an Insight check
+
+Mission control saw their poster
+
+They have rope, Mu's suit, etc. for Carcy to repair when she comes back
+
+NOTE: Mu did not modify her suit
+
+They figured out through Tongues that the Shabah want them to "stab" (Sarnos's words) the royal family
+
+There's like 20 people in the royal family
