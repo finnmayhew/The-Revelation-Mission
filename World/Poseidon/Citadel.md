@@ -40,7 +40,7 @@ There are guilds for various trades. Monster hunting is subsidized by the govern
 
 ## Food
 
-The main food source for Marids is fish, which are gone out and caught on expeditions (most fish have figured out not to swim too close to the Citadel). There's also farms for several types of vegetable, but fish farms haven't been invented, largely due to the cultural importance of fishing expeditions
+The main food source for Marids is fish, which are gone out and caught on expeditions (most fish have figured out not to swim too close to the Citadel). There's also farms for several types of vegetable, but fish farms haven't been invented, largely due to the cultural importance of fishing expeditions.
 
 ## Infrastructure
 
