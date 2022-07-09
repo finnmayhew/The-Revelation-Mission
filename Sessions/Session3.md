@@ -16,7 +16,7 @@ Mu is wrapping up her day with Charbel.
 
 Let's go to the Revelation first, where we can have Sarnos and Mu run into each other as they're about to open the airlock.
 
-### 1. The situation on the Revelation
+### 1. The Situation on the Revelation
 
 Sarnos and Mu enter the ship to find Norvin frozen in the hallway between the bridge and the sleeping quarters. What is Lux doing at this point? They could have heard the airlock activating.
 
@@ -59,16 +59,6 @@ Message from the Archivists' Guild:
 > Can't find any mythical record of a water world. Re: physics at the limit, we're finding magicians and scientists of historically water-based kingdoms for consultation.
 
 At the end of the day, Aicha will come to the ship to report back about the pressure experiment: everything she releases retains constant water pressure. She tested this with whatever balloon-like thing Carcy used.
-
-### X. Probing the Darkened Depths
-
-Going down towards the Darkened Depths, things more dense than water sink slower and things less dense than water rise slower. This gives a sluggish feel to everything this far down.
-
-Far down in the Darkened Depths is a [Charybdis](https://www.5esrd.com/database/creature/charybdis/).
-
-It's far enough down that it's not very visible right at the boundary, but you can see a huge form far down, like a big circle facing up, with some shifting forms inside.
-
-Have it go easy on the crew, and not chase after them if they retreat.
 
 ### X. Shabah science
 

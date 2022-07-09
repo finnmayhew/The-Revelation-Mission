@@ -5,7 +5,8 @@
 - [x] How does Kalbari use the captured Shabah to throw around the Gliss?
 - [x] Why do people know about the Stormrider's Pearl now?
 - [x] Name Aicha's magic rock
-- [ ] Prep session (see list in [Session 4](./Sessions/Session4.md))
+- [x] Prep session (see list in [Session 4](./Sessions/Session4.md))
+- [ ] Something to get them headed in a good direction...
 
 ## Backburner
 

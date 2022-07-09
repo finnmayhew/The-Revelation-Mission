@@ -6,4 +6,6 @@
 
 ## Prep
 
+- See Elinore's notes and address before session
+
 ## Table Notes
