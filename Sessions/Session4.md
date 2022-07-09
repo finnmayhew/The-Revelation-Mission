@@ -18,11 +18,15 @@ Roleplay Norvin coming back online. It's mostly an opportunity for the party to 
 
 Next, Mu heads to the farm buildings to consult with Charbel. She's interested in getting some small creature to use in their experiments with the limit.
 
+She finds him at the single-fiber kelp farm, where there's a grid of large kelp fibers, each being wound and held in place by bronze looking wires.
+
 Charbel is fine with this, and gives her a live salamander in a mason jar.
 
 He also explains the currency, which are small pearls of different metallic colors strung together on cords and worn not too tightly around the arm.
 
-He does ask that, in exchange for letting them hide in his kelp farm, the crew use their magic to help out the [Laminites](../NPCs/Laminites.md): "I'm not asking you to do anything that would jeopardize your mission of getting back to your home, but if you do get an opportunity, whatever you could do to help out the Laminites' cause, that would be a big help for me. Coming up's gonna be the second Wake that I've been through as a farmer, and it's a real difficult process to navigate, especially as the only person who runs this farm. And I think the Wake's gonna come sooner than usual, the single-fiber kelp is taking longer to settle than it usually does."
+He does ask that, in exchange for letting them hide in his kelp farm, the crew use their magic to help out the [Laminites](../NPCs/Laminites.md): "I'm not asking you to do anything that would jeopardize your mission of getting back to your home, but if you do get an opportunity, whatever you could do to help out the Laminites' cause, that would be a big help for me. Coming up's gonna be the second Wake that I've been through as a farmer, and it's a real difficult process to navigate, especially as the only person who runs this farm. And I think the Wake's gonna come sooner than usual."
+
+He swims over to one of the nearby kelp fibers and untwists a wire. The kelp slowly stretches away from the position it was being held in.
 
 Some roleplaying, then Mu heads back to the rest of the crew.
 
