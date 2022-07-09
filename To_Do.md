@@ -1,13 +1,5 @@
 # To Do
 
-- [x] Why does Poseidon have a 24-hour cycle?
-- [x] What causes the wakes? Could they start early?
-- [x] How does Kalbari use the captured Shabah to throw around the Gliss?
-- [x] Why do people know about the Stormrider's Pearl now?
-- [x] Name Aicha's magic rock
-- [x] Prep session (see list in [Session 4](./Sessions/Session4.md))
-- [ ] Something to get them headed in a good direction...
-
 ## Backburner
 
 - [ ] Render scientists and/or research groups (Almuhbasa)

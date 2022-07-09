@@ -38,10 +38,18 @@ To Archivists Guild:
 
 ## Hali 6942
 
+From Archivists Guild:
+
+> Can't find any mythical record of a water world. Re: physics at the limit, we're finding magicians and scientists of historically water-based kingdoms for consultation.
+
 From ground control:
 
 > Gliss has moved far away. Hired an advanced magician capable of scrying. When one of you senses a presence, do not resist observation. Report? Over.
 
-From Archivists Guild:
+(after hearing the Shabah during scrying)
 
-> Can't find any mythical record of a water world. Re: physics at the limit, we're finding magicians and scientists of historically water-based kingdoms for consultation.
+> Is the ship's structural integrity holding? We can hear a knocking sound from the hull. Over.
+
+(after they respond, likely verbally)
+
+> Will work on this. If possible, document the imposter's spells and capabilities and display or describe to us for future problem solving. Over.
