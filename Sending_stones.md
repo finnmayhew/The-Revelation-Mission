@@ -42,6 +42,10 @@ From Archivists Guild:
 
 > Can't find any mythical record of a water world. Re: physics at the limit, we're finding magicians and scientists of historically water-based kingdoms for consultation.
 
+Carcy to Archivists Guild:
+
+> Lux: age? history? personality?
+
 From ground control:
 
 > Gliss has moved far away. Hired an advanced magician capable of scrying. When one of you senses a presence, do not resist observation. Report? Over.
