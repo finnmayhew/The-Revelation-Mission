@@ -6,7 +6,7 @@
 
 ## Prep
 
-### 1. Making the plan
+### 1. Making the Plan
 
 The night of Hali 6942, after bringing the Itisal back to dock, Carcy returns to the ship. Does she bring Aicha?
 
