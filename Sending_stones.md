@@ -57,3 +57,13 @@ From ground control:
 (after they respond, likely verbally)
 
 > We'll work on all this. If possible, document the imposter's spells and capabilities and display or describe to us for future problem solving. Over.
+
+## Hali 6943
+
+From Archivists Guild:
+
+> Found old record of strange turbulence near bottom of ocean, not as regular as limit punches you describe. Could not find more info on Lux.
+
+From ground control:
+
+> Will begin scrying in five minutes. Prepare what you have to report, and we'll respond on Sending Stones. Over.

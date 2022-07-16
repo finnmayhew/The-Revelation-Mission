@@ -4,7 +4,6 @@
 
 Male:
 
-- Kostas
 - Omar
 - Dabir
 - Laraib
@@ -13,13 +12,11 @@ Male:
 Female:
 
 - Androula
-- Eleni
 - Fatima
 - Afra
 - Amira
 - Habbiba
 - Mersana
-- Miriam
 - Sabira
 - Uzza
 - Zeinab
