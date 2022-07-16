@@ -69,3 +69,37 @@ The guards can each cast Fog Cloud with a 20-ft radius once, which is not magic,
 End the session when either the party is all knocked out, decided to be monsters, or all enter the palace.
 
 ## Table Notes
+
+Ground control don't know that Lux has Tiny Hut
+
+Aicha is not telling Charbel at the moment, since they didn't say the plan was to attack the Padishah
+
+From ground control during scrying:
+
+> Will discuss Shabah info. Use whatever means possible to come home, but also be cautious. Over.
+
+Crew asked if they could Scry the Padishah.
+
+> Cannot send another cow :(. Will attempt to scry the Padishah tomorrow. Over.
+
+SET UP PADISHAH SCRYING
+
+Shabah will not tell Aicha if they're planning on harming the Padishah
+
+Lux's Shabah said that they should go to the maze today
+
+Lux's Shabah's least favorite color is green
+
+The Shabah have never gone through the entire Darkened Depths
+
+Lux: "Can I help you kill the Padishah and take their place"
+
+Shabah: "Yes"
+
+Shabah are sometimes harmed by monsters (like with destroy water magic)
+
+The Shabah know that the Padishah is moving the Gliss, but not why — although they know that they have to fix it themselves to allow the Hestians to get magic, which they want just to help the Hestians — and they don't know where the Gliss is
+
+Lux's Shabah attaches itself to people for fun
+
+They may go to find the Laminites before doing the Challenge
