@@ -34,7 +34,7 @@ Nothing from the Archivists Guild, but Carcy could send a question.
 
 From ground control:
 
-> Scrying: Scrying: small dark blue room, opening in back to bright area, cannot see past doorway. Padishah swimming in place, alone, motioning over pink sphere. Over.
+> Scrying: small dark blue room, opening in back to bright area, cannot see past doorway. Padishah swimming in place, alone, motioning over pink sphere. Over.
 
 Aicha comes out to check on them (if they're somewhere where she can find them). She wishes them the best, and says that she believes they'll make the right call when the time comes for it. She also gives them her pink topaz rock, for two reasons. One, it's a reminder to gain understanding with those whose first instincts may be violent. Two, if they have a large quantity of pink topaz dust, maybe they can use it for some magic, or just use it for general bashing if it comes down to that.
 
@@ -59,3 +59,31 @@ The guards can each cast Fog Cloud with a 20-ft radius once, which is not magic,
 End the session when either the party is all knocked out, decided to be monsters, or all enter the palace.
 
 ## Table Notes
+
+Sarnos and Norvin will find a place to hide the ship not in Charbel's farm
+
+Mu talked with Charbel
+
+Carcy and Mu try to put the gas generator into the bag of holding
+
+Can fit the gas generator and 5 air canisters
+
+Carcy carried Mu in a bag of holding
+
+The Shabah knows the S components of spells
+
+The nets are magical, also meant to keep out the Shabah
+
+Have them level up to 9 for next session
+
+Lux's Shabah are willing to throw someone at the nets
+
+Hole is not big enough for more than one person to get through at a time
+
+Maybe give them a long rest before encountering the Padishah
+
+Moved the ship to random other farm before it got light out, on the bottomside
+
+Aicha does not find them the morning of Hali 6944 because they moved the ship to a different farm
+
+Ended session mid-sending-stone session
