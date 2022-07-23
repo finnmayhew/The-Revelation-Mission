@@ -48,26 +48,6 @@ After Scrying:
 
 If Aicha told Charbel about their plan and they're still there, he'll come over the Revelation's viewscreen and let them know that if they're still in his farm by the end of the day, he's going to alert the government about them. He also encourages them to not do anything that would fuck up the order of the colony.
 
-### X. The Start of the Challenge
-
-If they decide to take on the Challenge:
-
-They take the currents to the very top of the Citadel, and there's a kind of roundabout-style off-ramp that curves in a large radius around the entrance to the palace. They use it to exit the currents and swim down to the building.
-
-The entrance to the palace is a series of interlocking single-fiber arches at different angles and heights that connect in a single large hexagon at their bases, which acts as a clear delineator of where the Challenge starts. Inside the hexagon, the ground is smooth, white sand, that seems to be packed down, and at the center the sand slopes up to form a 10-feet-wide volcano-looking circular opening to the palace below.
-
-There are three Marid royal guards (Miriam, Eleni, and Kostas, see collective character sheet) wearing golden ringed armor sitting on the sloped surface leading up to the opening. They seem to be chatting.
-
-The difficulty here is not necessarily knocking the guards out, but having the guards not realize that they're aliens. If the guards see their helmets, they'll ask about them, but they'll have to roll `Investigation DC 10` to see through them. If they see the party using magic, that's also a good sign that something's up. If they notice, they'll think they're monsters and will try to rush to a certain spot on the perimeter of the hexagon to light the alarm beacon, then they'll try extra hard to prevent the party from entering the palace.
-
-When the party approaches the hexagon, the guards get up and swim over to towards them casually. They'll ask if they're here for the Challenge. They'll explain that passing them acts as a first stage, and that things will get very tough inside the palace. There's also royal guards whose job it is to patrol the Challenge section of the palace and rescue anyone trapped, but they only patrol every few days.
-
-Then they fight. Improved Initiative player view [here](https://www.improved-initiative.com/p/e3rh5kas).
-
-The guards can each cast Fog Cloud with a 20-ft radius once, which is not magic, but uses a large leaf to stir up the sand and obscure the area. Then they'll swim to the outside and take kelp vines from the arches and try to wrap up the party (the arches are lined up so that they'd end up wrapped up not at the center). That takes one action, and makes whoever is ensnared `Restrained`, which can be broken out of with a `Strength Check DC 15` or a relevant spell.
-
-End the session when either the party is all knocked out, decided to be monsters, or all enter the palace.
-
 ## Table Notes
 
 Ground control don't know that Lux has Tiny Hut

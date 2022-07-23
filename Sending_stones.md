@@ -67,3 +67,13 @@ From Archivists Guild:
 From ground control:
 
 > Will begin scrying in five minutes. Prepare what you have to report, and we'll respond on Sending Stones. Over.
+>
+> Will discuss Shabah info. Use whatever means possible to come home, but also be cautious. Over.
+>
+> Cannot send another cow :(. Will attempt to scry the Padishah tomorrow. Over.
+
+## Hali 6944
+
+From ground control:
+
+> Scrying: Scrying: small dark blue room, opening in back to bright area, cannot see past doorway. Padishah swimming in place, alone, motioning over pink sphere. Over.
