@@ -66,7 +66,7 @@ To whoever is the first to accept:
 
 "You feel a strong force pull you horizontally through the water, but you don't feel any significant physical resistance. You begin to essentially glide through the water, faster and faster, and your trajectory slowly turns upwards. The Citadel shrinks in your view, and you realize you're headed straight for the limit, and all at once, you are no longer underwater. You are in space, and you can see the stars around you, and the sun, and in this brief moment, you think you can see the green and blue orb of Hestia in the far distance. But you don't feel weightless, and you find yourself falling downwards, and then you're gliding through water again, down to the Citadel, and you kind of spiral into a rest in front of the crew."
 
-Then, the crew can essentially do the yes/no questions game with Lux's guardian Shabah. They'll learn up to as much as the Shabah know and can communicate. The Shabah want them to go into the palace and deliver them the captured Shabah, and in exchange they'll bring the crew through the Darkened Depths to the Underdark.
+Then, the crew can essentially do the yes/no questions game with Lux's guardian Shabah. They'll learn up to as much as the Shabah know and can communicate. The Shabah want them to go into the palace and deliver them the captured Shabah, and in exchange they'll bring the crew through the Darkened Depths.
 
 ### X. Probing the Darkened Depths
 

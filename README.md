@@ -21,7 +21,6 @@
 - [Poseidon](./World/Poseidon.md)
   - [The Citadel of Ten Thousand Pearls](./World/Poseidon/Citadel.md)
   - [Almuhbasa](./World/Poseidon/Almuhbasa.md)
-- [The Underdark](./World/Underdark.md)
 
 ## PCs
 

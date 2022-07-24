@@ -14,11 +14,11 @@ Gravity points upwards. It decreases linearly with height. The boundary conditio
 
 The Weave points downwards. Its magnitude increases approximately quadratically with height (not actually quadratically because of the difference in magic charge between the sun and the Gliss — but approaches quadratic closer and closer to the sun).
 
-There is a considerable layer of mantle between Hestia and Poseidon's surface (the [Underdark](./Underdark.md)), and the Gliss and sun are set up such that the equi-magic-potential is at Hestia's surface, not Poseidon's. Therefore Hestia's surface is where the magic force is at its weakest, and it's stronger at Poseidon's surface. Similarly, gravity is weaker at Poseidon's surface (due to the linear dropoff), and strongest at Hestia's.
+There is a considerable layer of mantle between Hestia and Poseidon's surface, and the Gliss and sun are set up such that the equi-magic-potential is at Hestia's surface, not Poseidon's. Therefore Hestia's surface is where the magic force is at its weakest, and it's stronger at Poseidon's surface. Similarly, gravity is weaker at Poseidon's surface (due to the linear dropoff), and strongest at Hestia's.
 
 [Desmos graph](https://www.desmos.com/calculator/po5ucvvqh4)
 
-The blue region is Poseidon, the green is the Darkened Depths, the orange the Underdark, and the white Hestia. The purple line is the Weave, the red line is gravity, and the black line is the total force. Positive means force pointed radially outwards.
+The blue region is Poseidon, the green is the Darkened Depths, the orange the mantle between Hestia and Poseidon, and the white Hestia. The purple line is the Weave, the red line is gravity, and the black line is the total force. Positive means force pointed radially outwards.
 
 ![Desmos graph](./Images/forces.png)
 
@@ -34,7 +34,7 @@ The blue region is Poseidon, the green is the Darkened Depths, the orange the Un
 
 - The Gliss / Poseidon's sun is a "Plane of Water vortex"
   - Mostly useful for me
-- The "Darkened Depths" (Plane of Ooze / Swamp of Oblivion) before the Underdark
+- The "Darkened Depths" (Plane of Ooze / Swamp of Oblivion)
   - This is a place the Marids cannot go, but the Shabah can — so the revelers may have to be guided by Shabah
 - ~~Towards the Plane of (Ice, Salt, Steam), water becomes (cold, brackish, hot)~~ (doesn't make sense topologically)
 - The "Citadel of Ten Thousand Pearls" ("the Citadel" for short) is the colony (coral city-state) the revelers find
