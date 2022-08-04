@@ -6,9 +6,15 @@
 
 ## Prep
 
+### 0. Playing Lux
+
+Brandon:
+
+> 🤷‍♂️ probably be generally unhelpful except to preserve my own skin, and, if anyone else is saved, that's a bonus.
+
 ### 1. Scrying on the Padishah
 
-### 2. The Start of the Challenge
+### 2. Entrance Trial
 
 Note that, if their plan works, the fight described below will be entirely bypassed.
 
@@ -26,7 +32,19 @@ Then they fight.
 
 The guards can each cast Fog Cloud with a 20-ft radius once, which is not magic, but uses a large leaf to stir up the sand and obscure the area (the sand will coat the helmets of the PCs, causing them to be `Blinded`, until they take an action to remove it). Then they'll swim to the outside and take kelp vines from the arches and try to wrap up the party (the arches are lined up so that they'd end up wrapped up not at the center). That takes one action, and makes whoever is ensnared `Restrained`, which can be broken out of with a `Strength Check DC 15` or a relevant spell.
 
-### 3. The Challenge
+### The Layout of the Challenge
+
+Descend from entrance through a hatch into the Octopus Room.
+
+The Octopus Room has, seemingly, three passageways leading out from it, with a tentacle pointing to each (don't immediately mention this). Following four of the other tentacles leads to coral walls, and the final tentacle points back up to the entrance.
+
+Two of the doors lead to the first two trials, and once everyone's entered a trial, the doors close behind them.
+
+### First Trial
+
+### Second Trial
+
+### Third Trial
 
 ### X. Captured
 

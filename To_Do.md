@@ -2,8 +2,13 @@
 
 For Sessions 7 and 8:
 
-- [ ] Figure out how to run the first part of the Challenge with Brandon gone
+- [x] Figure out how to run the first part of the Challenge with Brandon gone
+- [ ] Write end of Padishah scrying session
+- [ ] Design the Challenge in general
 - [ ] Write the Challenge
+  - [ ] First trial
+  - [ ] Second trial
+  - [ ] Third trial
 - [ ] Write scenario for if they get captured
 - [ ] Figure out how to give them any more physics info
 
