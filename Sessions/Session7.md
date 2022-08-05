@@ -32,19 +32,39 @@ Then they fight.
 
 The guards can each cast Fog Cloud with a 20-ft radius once, which is not magic, but uses a large leaf to stir up the sand and obscure the area (the sand will coat the helmets of the PCs, causing them to be `Blinded`, until they take an action to remove it). Then they'll swim to the outside and take kelp vines from the arches and try to wrap up the party (the arches are lined up so that they'd end up wrapped up not at the center). That takes one action, and makes whoever is ensnared `Restrained`, which can be broken out of with a `Strength Check DC 15` or a relevant spell.
 
-### The Layout of the Challenge
+### 3a. The Layout of the Challenge
 
-Descend from entrance through a hatch into the Octopus Room.
+![The Challenge](../World/Images/The%20Challenge.jpg)
 
-The Octopus Room has, seemingly, three passageways leading out from it, with a tentacle pointing to each (don't immediately mention this). Following four of the other tentacles leads to coral walls, and the final tentacle points back up to the entrance.
+From the gate, the players descend 100 ft through a slightly curvy 10-ft-wide coral-walled passageway, the color of which turns from a bright pink to a deep purple as they get farther from the surface of the colony. The passage is lit with flecks of neon red bioluminescence evenly distributed across the the walls.
 
-Two of the doors lead to the first two trials, and once everyone's entered a trial, the doors close behind them.
+Then, the passageway opens up into blackness.
 
-### First Trial
+Assuming they can find a way to see, they find that this is a roughly hemispherical room with a diameter of about 50 ft, with a height of about 40 ft. However, there are no easily defined walls to the room — instead, the deep purple coral fractals away over the course of 15 or so ft until it's too small to pass through. The floor is solid, made out of very thick, almost wood-like black kelp.
 
-### Second Trial
+Everyone roll `Insight DC 10`. On a failure, they'll at first think there's a real octopus at the base of the room.
 
-### Third Trial
+At the center of the room is a realistic life-size bronze statue of a large octopus. Its tentacles point radially away from it.
+
+If examined, the crew will find that the octopus has seven tentacles pointing horizontally, with one is missing. But if they swim to quickly near it, they'll find that the bronze is thin and brittle, and can be broken easily. The one that was pointing up was broken by the force of the nearby currents and is trapped against the wall at the end of the looping passage.
+
+Red light comes from three passageways leading out of this room (the crew may notice that three of the octopus's tentacles are pointing to those three, and four seemingly unremarkable other sections of the wall).
+
+When they get close to it, they'll find that one of the three passageways has a current pulling water into it. Going down that one is another long winding passage of the same dimensions as the entrance passage, but this time mostly horizontal. After about a minute of traveling down it, it seems to come to an end. They'll spot the missing octopus tentacle here, pinned against the wall. When everyone is at the very end, the coral organically moves to seal behind them, and then the coral in front of them crawls away, and then the current moves them back into the main room, with the coral that had formed behind them building forward to become flush with the previous wall. They'll find themselves opposite the passageway they'd entered from, and the missing tentacle, if not grabbed, is pulled back into the current.
+
+Moving backwards through the door as it's shifting, the current suddenly stops, and then reverses direction, moving strongly. After a few turns, the passage arcs downward, then opens into a smaller hemispherical room, about 15 ft in diameter — except the flat part of the hemisphere — covered with a similar black kelp — is at the top of the room, and the curved surfaces is along the bottom. Illuminating the room is a blue stone ring of light with a diameter of 10 ft, and in relief around the surface of the ring are three shapes — a starfish, a seahorse, and a jellyfish. The hole of the ring leads down through to another passageway, which the party is sucked through immediately — meaning that they don't get a good luck at the ring of light unless they find a way to stop themselves. The passageway twists and turns and becomes more horizontal, then opens up back into the main room, with the coral building back behind the party.
+
+After they get all three sea creatures from the trials and place them along the ring, the passageway below will turn to the same glowing blue stone as the ring and suck them down it. This one dumps them into a dark, grey stone hallway, which surprisingly, is filled with air. There's a few puddles around where they land, but it otherwise seems dry, and the water is held in place above them somehow. The hallway slowly curves upward vertically (which they should figure out how to scale), and ends in a shimmering ceiling, which is the reverse-moonpool leading into the Reception Hall.
+
+The other two open passages leading from the main room lead to the first two trials. The trials begin only once everyone is inside, and the coral builds behind them to keep them in. Once they've finished a trial, the coral opens back up, and leads them down a much quicker passage to the main room, which builds behind them again once everyone's through. Each trial exits to passage that opens across the room to its entrance.
+
+Heading up in the central room leads to a passage that, while still moving up, has coral walls that turn from the deep purple of the rest of the Challenge's coral into a dark grey. This leads to the third trial.
+
+### 3b. First Trial
+
+### 3c. Second Trial
+
+### 3d. Third Trial
 
 ### X. Captured
 

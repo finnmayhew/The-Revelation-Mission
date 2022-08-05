@@ -3,8 +3,8 @@
 For Sessions 7 and 8:
 
 - [x] Figure out how to run the first part of the Challenge with Brandon gone
+- [x] Design the Challenge in general
 - [ ] Write end of Padishah scrying session
-- [ ] Design the Challenge in general
 - [ ] Write the Challenge
   - [ ] First trial
   - [ ] Second trial
