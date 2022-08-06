@@ -68,8 +68,6 @@ After they get all three sea creatures from the trials and place them along the 
 
 The other two open passages leading from the main room lead to the first two trials. The trials begin only once everyone is inside, and the coral builds behind them to keep them in. Once they've finished a trial, the coral opens back up, and leads them down a much quicker passage to the main room, which builds behind them again once everyone's through. Each trial exits to passage that opens across the room to its entrance.
 
-Heading up in the central room leads to a passage that, while still moving up, has coral walls that turn from the deep purple of the rest of the Challenge's coral into a dark grey. This leads to the third trial.
-
 #### First Trial
 
 The first trial is the Labyrinth two-doors-one-always-tells-the-truth-and-the-other-always-lies puzzle.
