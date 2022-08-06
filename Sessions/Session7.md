@@ -131,3 +131,31 @@ Improvise Omar's involvement in the rest of the Challenge. When either the playe
 The third trial uses the same passageway for its entrance and exit.
 
 ## Table Notes
+
+They're going to save the remaining Sending Stones for later, instructed ground control to write down as many details from the Scrying as possible
+
+They fit everyone + all 5 flasks into the Bag of Holding
+
+Lux has one of Carcy's Sending Stones
+
+The Shabah can do some noise cancellation
+
+Coral polyp said someone came through more than a day ago (make this some unnamed Marid)
+
+Royal Guards take another path into the palace
+
+Mu got a guppy named "Gif" (sp?)
+
+Salamander got the name "Speck"
+
+Determined that the Shabah are at least somewhat individuals, as Carcy's Shabah was the only one that made a break for it in Trial 2
+
+They learned that the Shabah cannot communicate among each other, and might not all have the same or broadly unified motives
+
+But they can learn things about each other somehow
+
+First half of current passageway is less than 250 ft long
+
+Coral said there was someone in the third trial, and that they were supposed to be "trapped forever" (so the coral was fed info by the Padishah)
+
+Ended at the entrance to the third trial
