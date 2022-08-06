@@ -20,7 +20,7 @@ I'll play Norvin as generally helpful, but it won't solve puzzles for the group 
 
 From ground control:
 
-> Scrying: Scrying: small dark blue room, opening in back to bright area, cannot see past doorway. Padishah swimming in place, alone, motioning over pink sphere. Over.
+> Scrying: small dark blue room, opening in back to bright area, cannot see past doorway. Padishah swimming in place, alone, motioning over pink sphere. Over.
 
 What she's doing here is configuring both the Challenge and the currents.
 
