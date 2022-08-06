@@ -22,7 +22,7 @@ On the side of the stage is a table with a number of dark leaf packets of someth
 
 The first thing they'll have to do is figure out how to not spook Raqayiqi.
 
-Then, they can talk with him. He'll tell them what he remembers about the Challenge, if he believes that the crew is going to ask the Padishah to stop the currents. But he has a word of caution: he also went to get advice from the last person who took on the Challenge, and it was pretty different from how he described it (his father, Omar, succeeded in the Challenge and asked the Padishah for subsidies for farmers while recovering from the Wakes, which she provided). So it could be that the Challenge is changed periodically.
+Then, they can talk with him. He'll tell them what he remembers about the Challenge, if he believes that the crew is going to ask the Padishah to stop the currents. But he has a word of caution: he also went to get advice from the last person who took on the Challenge, and it was pretty different from how he described it (his father succeeded in the Challenge and asked the Padishah for subsidies for farmers while recovering from the Wakes, which she provided). So it could be that the Challenge is changed periodically.
 
 His father remembers the Challenge as a battle gauntlet. For him, the challenge was a seemingly endless maze within the coral.
 

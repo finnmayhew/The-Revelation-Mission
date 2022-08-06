@@ -4,7 +4,6 @@
 
 Male:
 
-- Omar
 - Dabir
 - Laraib
 - Shakir

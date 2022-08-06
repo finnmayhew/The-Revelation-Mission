@@ -32,7 +32,7 @@ Then they fight.
 
 The guards can each cast Fog Cloud with a 20-ft radius once, which is not magic, but uses a large leaf to stir up the sand and obscure the area (the sand will coat the helmets of the PCs, causing them to be `Blinded`, until they take an action to remove it). Then they'll swim to the outside and take kelp vines from the arches and try to wrap up the party (the arches are lined up so that they'd end up wrapped up not at the center). That takes one action, and makes whoever is ensnared `Restrained`, which can be broken out of with a `Strength Check DC 15` or a relevant spell.
 
-### 3a. The Layout of the Challenge
+### 3. The Challenge
 
 ![The Challenge](../World/Images/The%20Challenge.jpg)
 
@@ -60,12 +60,66 @@ The other two open passages leading from the main room lead to the first two tri
 
 Heading up in the central room leads to a passage that, while still moving up, has coral walls that turn from the deep purple of the rest of the Challenge's coral into a dark grey. This leads to the third trial.
 
-### 3b. First Trial
+#### First Trial
 
-### 3c. Second Trial
+The first trial is the Labyrinth two-doors-one-always-tells-the-truth-and-the-other-always-lies puzzle.
 
-### 3d. Third Trial
+The room for this trial is small and can be mistaken for an extension of the passageway that came before, which is composed of coral that turns more and more orange as the passage continues (so the door closing may catch them by surprise). There are two circular Hobbit-hole-like doors, one made of red kelp, the other made of blue kelp. Each has a handle. There is an inscription over the doors, written in Maridian, which reads (Carcy may have to use Comprehend Languages):
 
-### X. Captured
+> One tells the truth and one lies. Before opening, ask one a single question, and learn which door leads to success.
+
+They can simply address a door verbally for this, which works with Aicha's powder magic. The door will respond by using a current in some way.
+
+Both doors are always openable, but they will not answer a question after either of them has been opened. Behind them is, maybe surprisingly, a single small coral room, within which swim maybe 40 small sea creatures. Investigation will reveal that there are exactly two of each type of sea creature, and also that there are hooks along the centerline, which might have once held a net separating two enclosures of the sea creatures. The starfish that they'll eventually be after is the particular starfish that was originally in enclosure behind the correct door. They can figure out which starfish is which using Speak with Animals or some other method (or they can just take both and try both, which might just take more time).
+
+#### Second Trial
+
+The second trial's room is a seemingly empty spherical room with a 50 ft diameter and bright white coral.
+
+As soon as all the party enters, the gateway builds out behind them, and, unlike the other trial rooms, the coral keeps building out. In fact, on a `Perception DC 10` roll, the party finds that the coral is growing towards them from all sides — the room is shrinking Star Wars trash compactor style.
+
+Handle this as a skill challenge:
+
+- Success
+  - Require 4
+  - Success state: they exit the room
+- Failure
+  - Require 3
+  - Failure state: they're trapped in the room for long enough that they gain 1 Exhaustion
+- Complications (6) — on every success, the coral bounces backwards a bit
+  - Right as the door starts closing, someone's guardian Shabah darts away from them towards the opening, causing a sudden change in water pressure that catches you off guard — whoever else has the highest Passive Insight (first person is temporarily Stunned) roll `Ins DC 10` to see if they know what happened
+    - On failure, disadvantage on the below complication roll as the Shabah is almost out by the time someone else notices
+  - Then, someone (if the info was communicated), what do you do to convince the Shabah to come back?
+    - On failure, that party member is pulled right next to another party member by another Shabah to keep their water pressure equalized, and must stay near them until their guardian Shabah returns at the end of the trial
+  - A blunt pillar of coral shoots out and tries to bludgeon a character — default, roll `Dex DC 15`
+    - On failure, take `1d8 Bludgeoning damage`
+  - Currents start up in the room and send everyone flying into the center of the room, in an attempt to crash them into each other
+    - On failure, everyone crashes into each other and takes `1d10 Bludgeoning damage`
+  - A small jellyfish swimming around zaps someone, causing them to drop whatever they're holding — how does someone quickly catch whatever is dropped?
+    - On failure, the item is temporarily lost
+  - The coral closes in and threatens to immobilize everyone — requires a creative solution
+    - On failure, everyone is Restrained, and the skill challenge's failure condition is triggered
+
+On a success, the room becomes inert and the gateway opens back up.
+
+The jellyfish is hard to spot, but can be spotted at any point or returned to.
+
+#### Third Trial
+
+The entrance to the third trial seems to be blocked. The PCs have to cut through the coral to get through, and on the other side they find, strangely, a bedroom. It doesn't look like a Hestian bedroom, or like the design of the interior of Aicha and Habib's house. There's a Maridian man in his 20s sleeping in the bed, and if they look through the windows of the room, they'll find the dark ocean.
+
+Outside this house, they'll find a [Mirage Arcane](https://roll20.net/compendium/dnd5e/Mirage%20Arcane#content)'s recreation of Almuhbasa. The layout of the city is like Ted Chiang's Tower of Babel — large slopes spiralling around the outside and buildings on the inside of an enormous, slightly swaying coral long coral branch reaching from down in the Darkened Depths.
+
+Totally improvise any encounters they may have in the city. It'll seem real — although since they've never been to Almuhbasa, they don't have much to compare it against. I expect they won't stay here long, since they're focused on the Challenge.
+
+After being shocked at the appearance of the party (both the fact that they appear and how unfamiliar they look, being aliens), the man introduces himself as Omar. He says he lives on Almuhbasa, and two days ago while visiting the Citadel, he decided to take on the Challenge just to see if he could (have him present with the same stats as the guards from the entrance trial). This was the first trial he took on after entering the Challenge, and it seems the trial played with his mind and successfully convinced him that he had never come to the Citadel and that he was back home.
+
+Omar identifies himself as a natural philosopher. He's studying the nature of the sun, and came to the Citadel to see if he could observe it from another angle. He was surprised to find that the sun remained directly overhead at the Citadel.
+
+(In reality, Omar is a projection of the Padishah Kalbari (some spell?), as is everyone on the fake Almuhbasa. She's taken on this persona to gather information about the party after learning that there was something suspicious going on around the Citadel — maybe someone spotted the Revelation landing once. She prompts the party with this knowledge to see if they've figured out the true shape of Poseidon, and she figures that letting that bit of knowledge slip would be fine, because she can just capture them if she wants once they make it through the trial. Her main motivation at this point is curiosity.)
+
+Improvise Omar's involvement in the rest of the Challenge. When either the players run out of options or discover Omar's deception, Omar will smile, say something like "see you soon", and kind of resolve into Vecna-like snaking coral, which will fall away, revealing a seahorse in Omar's place.
+
+The third trial uses the same passageway for its entrance and exit.
 
 ## Table Notes
