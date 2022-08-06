@@ -50,9 +50,7 @@ The guards can each cast Fog Cloud with a 20-ft radius once, which is not magic,
 
 From the gate, the players descend 100 ft through a slightly curvy 10-ft-wide coral-walled passageway, the color of which turns from a bright pink to a deep purple as they get farther from the surface of the colony. The passage is lit with flecks of neon red bioluminescence evenly distributed across the the walls.
 
-Then, the passageway opens up into blackness.
-
-Assuming they can find a way to see, they find that this is a roughly hemispherical room with a diameter of about 50 ft, with a height of about 40 ft. However, there are no easily defined walls to the room — instead, the deep purple coral fractals away over the course of 15 or so ft until it's too small to pass through. The floor is solid, made out of very thick, almost wood-like black kelp.
+Then, the passageway opens up. This is a roughly hemispherical room with a diameter of about 50 ft, with a height of about 40 ft. However, there are no easily defined walls to the room — instead, the deep purple coral fractals away over the course of 15 or so ft until it's too small to pass through. The floor is solid, made out of very thick, almost wood-like black kelp.
 
 Everyone roll `Insight DC 10`. On a failure, they'll at first think there's a real octopus at the base of the room.
 
