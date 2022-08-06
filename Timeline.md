@@ -2,7 +2,7 @@
 
 ## Jidana 1
 
-[Kalbari](./NPCs/Kalbari.md) becomes the Padishah.
+[Kalbari](./NPCs/Kalbari.md) becomes the Padishah
 
 ## Qadim 7010
 
