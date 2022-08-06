@@ -6,13 +6,25 @@
 
 ## Prep
 
-### 0. Playing Lux
+### 0. Playing Lux and Norvin
 
 Brandon:
 
 > 🤷‍♂️ probably be generally unhelpful except to preserve my own skin, and, if anyone else is saved, that's a bonus.
 
+I'll play Norvin as generally helpful, but it won't solve puzzles for the group on its own.
+
 ### 1. Scrying on the Padishah
+
+(from last session:)
+
+From ground control:
+
+> Scrying: Scrying: small dark blue room, opening in back to bright area, cannot see past doorway. Padishah swimming in place, alone, motioning over pink sphere. Over.
+
+What she's doing here is configuring both the Challenge and the currents.
+
+Improvise other observations when the crew asks for them, up to the point that they use the final available sending stone.
 
 ### 2. Entrance Trial
 
