@@ -45,4 +45,12 @@ Thoughts:
 - Is fighting not an option?
 - How can I prevent them from getting to a stalemate?
 
+### 1. Reception
+
+
+
+The Padishah has all the powers
+
+### 2. Escape
+
 ## Table Notes
