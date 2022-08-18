@@ -1,7 +1,6 @@
 [Zero](./Session0.md) [1](./Session1.md) [2](./Session2.md) [3](./Session3.md) [4](./Session4.md) [5](./Session5.md) [6](./Session6.md) [7](./Session7.md) [8](./Session8.md) **9**
 
 [<](./Session8.md) |
-=]
 
 
 # Session 9
@@ -28,7 +27,7 @@ The Padishah's goal here is to figure out how the Hestians have magic. Key thing
   - She's not entirely knowledgable on what magic the party has, so she realizes it's possible they'll escape using some ability she's not familiar with.
   - But in her mind, she is their only way home, so they'll come back eventually.
 
-If she does figure out that it's the Shabah moving Poseidon's sun (piece of logic needed: the Shabah are intelligent, and there's a cluser of them near the Sun), she'll make a deal with the crew: she'll put a single-use current-creating blaster on the Revelation, and if they create a current that surrounds the sun and funnels all Shabah that get near it to the Darkened Depths, she'll send them home. With some faith, the single charge could instead be used to send the Revelation through the Darkened Depths and back to Hestia. If they refuse, the Padishah will say that she can convince someone else to do it, and will attempt to kill the party.
+If she does figure out that it's the Shabah moving Poseidon's sun (piece of logic needed: the Shabah are intelligent, and there's a cluser of them near the Sun), she'll make a deal with the crew: she'll put a single-use current-creating blaster on the Revelation (vai cutting a bit off the Stormrider's Pearl and instructing them to put that in the propulsion system), and if they create a current that surrounds the sun and funnels all Shabah that get near it to the Darkened Depths, she'll send them home. With some faith, the single charge could instead be used to send the Revelation through the Darkened Depths and back to Hestia. If they refuse, the Padishah will say that she can convince someone else to do it, and will attempt to kill the party.
 
 The Padishah has all the powers that are granted to her as a [Lich](https://www.dndbeyond.com/monsters/16943-lich), and through magic items she has either found or crafted:
 
@@ -43,5 +42,19 @@ One way the party can escape is by convincing the coral to simply move aside. Co
 ### 2. The End
 
 I have no idea what the party will do. The ending will follow from whatever happens in the center of the palace, and the hope is that I've given them enough tools to be able to enact their will and discover how to return to Hestia.
+
+If they do blast through the [Darkened Depths](../World/Poseidon/Darkened_Depths.md), they have to survive a brief encounter with a [Nightwalker](https://www.dndwiki.io/monsters/nightwalker), who will take a single Multiattack against two of the crewmembers as they pass. It'll take the form of a gargantuan, spindly shape floating in the blackness, which casts its spells by reaching out a limb and pointing at the ship.
+
+After this, whoever's piloting should roll an `Int Check (DC 10)` followed by a `Dex Check (DC 10)` to keep the ship inside their vertical current. If they fail, they fall out of the current, and the Nightwalker takes another turn against them.
+
+Somwhere around here play the Return Trip music in the background.
+
+If the party is entirely knocked out, they will be awoken by a tapping at the viewscreen, where Lux's guardian Shabah has been effortfully maneuvering the ship around to keep it out of the way of monsters while the crew were knocked out. Once they wake up, the tapping stops. There's a single bright light coming from the edge of the viewscreen, and turning the ship to see it, they'll see a single large glowing pearl from the Citadel shoot down the current (which Lux's guardian Shabah disloged and sent there), which allows them to find the current again and head home.
+
+As they get farther down, they begin to feel weightless, and then they feel that they're heading upwards. At first you think you're heading back to Poseidon, but after a while, the ocean begins to lighten, and all at once, the Revelation breaks the surface, and you see, through the viewscreen, a familiar sky.
+
+### 3. Epilogue
+
+If there's time, ask the party, as part of the epilogue: what does the crew do next?
 
 ## Table Notes
