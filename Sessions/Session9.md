@@ -21,6 +21,7 @@ The Padishah's goal here is to figure out how the Hestians have magic. Key thing
 
 - She'll divulge anything to the party except for things that reveal the relative locations of Hestia and Poseidon.
   - This is becaues she wants to prevent the crew from returning to Hestia, because she wants the mission to be considered a failure so Hestians do not come back.
+  - She will say, "So, there's an equal potential for magic across the surface of your world..." (meant to trigger thoughts of equi-potential surfaces)
 - She is adamant that the Shabah do not have intelligence.
   - This is a self-delusion she's propagated since using the captive Shabah as her phylactery.
 - She wants to keep them here just so she can use their knowledge to figure out why the Hestians have magic.
