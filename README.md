@@ -8,8 +8,6 @@
 
 [Secret Backstory](./Secret_Backstory.md)
 
-[To Do](./To_Do.md)
-
 ## Sessions
 
 [Zero](./Sessions/Session0.md) [1](./Sessions/Session1.md) [2](./Sessions/Session2.md) [3](./Sessions/Session3.md) [4](./Sessions/Session4.md) [5](./Sessions/Session5.md) [6](./Sessions/Session6.md) [7](./Sessions/Session7.md) [8](./Sessions/Session8.md) [9](./Sessions/Session9.md)
