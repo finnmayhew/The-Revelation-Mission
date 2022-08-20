@@ -54,4 +54,8 @@ The Revelers enter [Poseidon](./World/Poseidon.md) and encounter [Aicha](./NPCs/
 
 ([Session 8](./Sessions/Session8.md))
 
-([Session 9](./Sessions/Session9.md))
+(part of [Session 9](./Sessions/Session9.md))
+
+## Hali 6945
+
+(part of [Session 9](./Sessions/Session9.md))
