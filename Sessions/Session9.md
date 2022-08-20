@@ -28,9 +28,9 @@ The Padishah's goal here is to figure out how the Hestians have magic. Key thing
   - She's not entirely knowledgable on what magic the party has, so she realizes it's possible they'll escape using some ability she's not familiar with.
   - But in her mind, she is their only way home, so they'll come back eventually.
 
-If she does figure out that it's the Shabah moving Poseidon's sun (piece of logic needed: the Shabah are intelligent, and there's a cluser of them near the Sun), she'll make a deal with the crew: she'll put a single-use current-creating blaster on the Revelation (vai cutting a bit off the Stormrider's Pearl and instructing them to put that in the propulsion system), and if they create a current that surrounds the sun and funnels all Shabah that get near it to the Darkened Depths, she'll send them home. To release them from the center of the palace, she'll open up a bubble in the coral that will lead the party out. With some faith, the single charge could instead be used to send the Revelation through the Darkened Depths and back to Hestia. If they refuse, the Padishah will say that she can convince someone else to do it, and will attempt to kill the party.
+If she does figure out that it's the Shabah moving Poseidon's sun (piece of logic needed: the Shabah are intelligent, and there's a cluser of them near the Sun), she'll make a deal with the crew: she'll put a single-use current-creating blaster on the Revelation (via cutting a bit off the Stormrider's Pearl and instructing them to put that in the propulsion system), and if they create a current that surrounds the sun and funnels all Shabah that get near it to the Darkened Depths, she'll send them home. To release them from the center of the palace, she'll open up a bubble in the coral that will lead the party out. With some faith, the single charge could instead be used to send the Revelation through the Darkened Depths and back to Hestia. If they refuse, the Padishah will say that she can convince someone else to do it, and will attempt to kill the party.
 
-The Padishah has all the powers that are granted to her as a [Lich](https://www.dndbeyond.com/monsters/16943-lich), and through magic items she has either found or crafted:
+The Padishah has all the powers that are granted to her as a [lich](https://www.dndbeyond.com/monsters/16943-lich), and through magic items she has either found or crafted:
 
 - The power to control the currents (the Stormrider's Pearl)
 - The power to control the Gliss (a solid pink sphere)
@@ -59,3 +59,14 @@ As they get farther down, they begin to feel weightless, and then they feel that
 If there's time, ask the party, as part of the epilogue: what does the crew do next?
 
 ## Table Notes
+
+Sending stones to ground control, on Hali 6945:
+
+> Completed trials and are negotiating with padisha, who is concerned that magic users from Hessia come to Posiedan and will be more powerful than her. Claims she has magic because she used to live in darkened depths. Wants to know if magic is uniformly distributed on Hestia.
+> (Elinore sent more)
+
+Ground control can scry in the morning
+
+After encounter with the Padishah, Carcy updates mission control
+
+Distributed sending stones to Lux and Mu (who stayed on Poseidon) and the others
