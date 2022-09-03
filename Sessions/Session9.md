@@ -2,7 +2,6 @@
 
 [<](./Session8.md) |
 
-
 # Session 9
 
 ## Prep
@@ -15,20 +14,20 @@ When the party entered the air room, their guardian Shabahs stayed behind, and t
 
 After blasting through the moonpool, the party find themselves in a deep purple coral hallway that curves and opens up into a larger, bright space not visible from the moonpool. After they come through the moonpool, coral builds to cover it.
 
-Swimming down the hallway, they find it open up to a 100ft by 50ft by 50ft room of purple coral. There are six ornate black kelp pillars running on down its length, three on either side of a smooth dark grey stone path leading to the far side of the room. Seated at her throne is [Padishah Kalbari](../NPCs/Kalbari.md), wearing a red and gold robe. There are red whispy lines radiating out from her that end in vague claw shapes clutching the coral on the inside surface of the hall (this is her [Dominate Monster](https://www.dndbeyond.com/spells/dominate-monster) controlling the surrounding coral).
+Swimming down the hallway, they find it open up to a 100ft by 50ft by 50ft room of purple coral. There are six ornate black kelp pillars running on down its length, three on either side of a smooth dark grey stone path leading to the far side of the room. Seated at her throne is [Padishah Kalbari](../NPCs/Kalbari.md), wearing a red and gold robe. There are red wispy lines radiating out from her that end in vague claw shapes clutching the coral on the inside surface of the hall (this is her [Dominate Monster](https://www.dndbeyond.com/spells/dominate-monster) controlling the surrounding coral).
 
 The Padishah's goal here is to figure out how the Hestians have magic. Key things:
 
 - She'll divulge anything to the party except for things that reveal the relative locations of Hestia and Poseidon.
-  - This is becaues she wants to prevent the crew from returning to Hestia, because she wants the mission to be considered a failure so Hestians do not come back.
+  - This is because she wants to prevent the crew from returning to Hestia, because she wants the mission to be considered a failure so Hestians do not come back.
   - She will say, "So, there's an equal potential for magic across the surface of your world..." (meant to trigger thoughts of equi-potential surfaces)
 - She is adamant that the Shabah do not have intelligence.
   - This is a self-delusion she's propagated since using the captive Shabah as her phylactery.
 - She wants to keep them here just so she can use their knowledge to figure out why the Hestians have magic.
-  - She's not entirely knowledgable on what magic the party has, so she realizes it's possible they'll escape using some ability she's not familiar with.
+  - She's not entirely knowledgeable on what magic the party has, so she realizes it's possible they'll escape using some ability she's not familiar with.
   - But in her mind, she is their only way home, so they'll come back eventually.
 
-If she does figure out that it's the Shabah moving Poseidon's sun (piece of logic needed: the Shabah are intelligent, and there's a cluser of them near the Sun), she'll make a deal with the crew: she'll put a single-use current-creating blaster on the Revelation (via cutting a bit off the Stormrider's Pearl and instructing them to put that in the propulsion system), and if they create a current that surrounds the sun and funnels all Shabah that get near it to the Darkened Depths, she'll send them home. To release them from the center of the palace, she'll open up a bubble in the coral that will lead the party out. With some faith, the single charge could instead be used to send the Revelation through the Darkened Depths and back to Hestia. If they refuse, the Padishah will say that she can convince someone else to do it, and will attempt to kill the party.
+If she does figure out that it's the Shabah moving Poseidon's sun (piece of logic needed: the Shabah are intelligent, and there's a cluster of them near the Sun), she'll make a deal with the crew: she'll put a single-use current-creating blaster on the Revelation (via cutting a bit off the Stormrider's Pearl and instructing them to put that in the propulsion system), and if they create a current that surrounds the sun and funnels all Shabah that get near it to the Darkened Depths, she'll send them home. To release them from the center of the palace, she'll open up a bubble in the coral that will lead the party out. With some faith, the single charge could instead be used to send the Revelation through the Darkened Depths and back to Hestia. If they refuse, the Padishah will say that she can convince someone else to do it, and will attempt to kill the party.
 
 The Padishah has all the powers that are granted to her as a [lich](https://www.dndbeyond.com/monsters/16943-lich), and through magic items she has either found or crafted:
 
@@ -48,9 +47,9 @@ If they do blast through the [Darkened Depths](../World/Poseidon/Darkened_Depths
 
 After this, whoever's piloting should roll an `Int Check (DC 10)` followed by a `Dex Check (DC 10)` to keep the ship inside their vertical current. If they fail, they fall out of the current, and the Nightwalker takes another turn against them.
 
-Somwhere around here play the Return Trip music in the background.
+Somewhere around here play the Return Trip music in the background.
 
-If the party is entirely knocked out, they will be awoken by a tapping at the viewscreen, where Lux's guardian Shabah has been effortfully maneuvering the ship around to keep it out of the way of monsters while the crew were knocked out. Once they wake up, the tapping stops. There's a single bright light coming from the edge of the viewscreen, and turning the ship to see it, they'll see a single large glowing pearl from the Citadel shoot down the current (which Lux's guardian Shabah disloged and sent there), which allows them to find the current again and head home.
+If the party is entirely knocked out, they will be awoken by a tapping at the viewscreen, where Lux's guardian Shabah has been effortfully maneuvering the ship around to keep it out of the way of monsters while the crew were knocked out. Once they wake up, the tapping stops. There's a single bright light coming from the edge of the viewscreen, and turning the ship to see it, they'll see a single large glowing pearl from the Citadel shoot down the current (which Lux's guardian Shabah dislodged and sent there), which allows them to find the current again and head home.
 
 As they get farther down, they begin to feel weightless, and then they feel that they're heading upwards. At first you think you're heading back to Poseidon, but after a while, the ocean begins to lighten, and all at once, the Revelation breaks the surface, and you see, through the viewscreen, a familiar sky.
 
