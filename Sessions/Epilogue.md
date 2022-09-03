@@ -26,7 +26,7 @@ Carcy volunteered to test the Revelation's new capabilities during its developme
 
 ### 2. Lux Fights the Padishah
 
-Lux has reached their final form, which means it's time for phase two of the Revelation mission. Carcy and Sarnos travel to Poseidon and, as usual, hide the Revelation in Charbel's kelp fields.
+Lux has reached their final form, which means it's time for phase two of the Revelation mission. Carcy and Sarnos travel to Poseidon and, as usual, hide the Revelation in Charbel's kelp fields. What do they bring to Lux?
 
 To keep the Padishah from seeing this through Scrying, Norvin has been doing increasingly strange acts to ensure that the Padishah uses all her Scrying-level spell slots to watch it instead of the rest of the crew. Ground control's Scrying guy has been checking that this is really the case. The Padishah probably knows that they're planning something, but not exactly what or when it will happen.
 
